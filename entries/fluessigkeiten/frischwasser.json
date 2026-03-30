@@ -1,0 +1,43 @@
+{
+  "id": "fluessigkeiten-frischwasser",
+  "category": "fluessigkeiten",
+  "title": "Frischwassersystem",
+  "subtitle": "Frischwassertank, Pumpe, Wasserfilter",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": ["perfection", "i-vent"],
+  "tags": ["wasser", "frischwasser", "tank", "pumpe", "filter", "wasserfilter", "befüllen"],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Frischwasser befüllen"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Einfüllstutzen auf der linken Fahrzeugseite öffnen",
+        "Trinkwasserschlauch anschließen",
+        "Wasser einfüllen \u2013 Füllstand wird am Bedienpanel angezeigt",
+        "Bei vollem Tank: Überlauf läuft ab \u2013 Befüllung stoppen",
+        "Stutzen verschließen"
+      ]
+    },
+    {
+      "type": "image",
+      "image": "images/fluessigkeiten/frischwasser_einfuellstutzen.jpg",
+      "caption": "Lage des Frischwasser-Einfüllstutzens"
+    },
+    {
+      "type": "heading",
+      "content": "Wasserfilter"
+    },
+    {
+      "type": "text",
+      "content": "Der integrierte Wasserfilter reinigt das Frischwasser. Filterwechsel alle 6 Monate oder nach 5.000 Litern empfohlen."
+    },
+    {
+      "type": "info",
+      "content": "Nach längerer Standzeit (> 3 Tage): Wasser ablassen und frisch befüllen."
+    }
+  ]
+}
