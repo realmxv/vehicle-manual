@@ -1,0 +1,52 @@
+{
+  "id": "heizung-frischwasser-heizung",
+  "category": "heizung",
+  "title": "Frischwasser-Heizung",
+  "subtitle": "Frischwasser-Heizsystem für den Wohnbereich",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "frischwasser",
+    "heizung",
+    "fußbodenheizung",
+    "wärmetauscher",
+    "heizen"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Funktionsweise"
+    },
+    {
+      "type": "text",
+      "content": "Die Frischwasser-Heizung nutzt erwärmtes Wasser, das durch die Heizkörper und die Fußbodenheizung im Wohnbereich zirkuliert. Das Wasser wird durch die Heizungsanlage (Webasto oder Scheer) erwärmt."
+    },
+    {
+      "type": "heading",
+      "content": "Frischwasser-Heizung einschalten"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Öffnen Sie das Heizungsmenü auf dem Bedienfeld oder in der App",
+        "Wählen Sie \"Frischwasser-Heizung\"",
+        "Stellen Sie die gewünschte Temperatur ein",
+        "Aktivieren Sie die Heizung"
+      ]
+    },
+    {
+      "type": "info",
+      "content": "Die Frischwasser-Heizung arbeitet zusammen mit der Webasto- oder Scheer-Heizung als Wärmequelle. Stellen Sie sicher, dass eine der Heizungen aktiv ist."
+    },
+    {
+      "type": "warning",
+      "content": "Prüfen Sie regelmäßig den Wasserstand im Heizkreislauf. Ein zu niedriger Wasserstand kann zu Schäden an der Heizungsanlage führen."
+    }
+  ]
+}
