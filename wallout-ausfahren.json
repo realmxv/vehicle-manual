@@ -1,0 +1,59 @@
+{
+  "id": "wallout-ausfahren",
+  "category": "wallout",
+  "title": "Wallout Ausfahren / Einfahren",
+  "subtitle": "Wallout sicher aus- und einfahren",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "wallout",
+    "ausfahren",
+    "einfahren",
+    "slideout",
+    "erker"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Wallout ausfahren"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Stellen Sie sicher, dass sich keine Personen oder Gegenstände im Bewegungsbereich des Wallouts befinden",
+        "Öffnen Sie das Wallout-Menü auf dem Bedienfeld oder in der App",
+        "Wählen Sie \"Wallout ausfahren\"",
+        "Warten Sie, bis der Wallout vollständig ausgefahren ist",
+        "Kontrollieren Sie den korrekten Sitz der Dichtungen"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Fahren Sie den Wallout niemals während der Fahrt aus! Das Fahrzeug muss stehen."
+    },
+    {
+      "type": "heading",
+      "content": "Wallout einfahren"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Kontrollieren Sie das Dach des Wallouts auf Äste, Laub oder andere Gegenstände",
+        "Stellen Sie sicher, dass sich keine Personen oder Tiere im Bewegungsbereich befinden",
+        "Öffnen Sie das Wallout-Menü auf dem Bedienfeld oder in der App",
+        "Wählen Sie \"Wallout einfahren\"",
+        "Warten Sie, bis der Wallout vollständig eingefahren ist"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Kontrollieren Sie vor dem Einfahren immer das Dach des Wallouts. Gegenstände auf dem Dach können die Dichtung zerstören!"
+    }
+  ]
+}
