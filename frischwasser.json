@@ -1,0 +1,49 @@
+{
+  "id": "fluessigkeiten-frischwasser",
+  "category": "fluessigkeiten",
+  "title": "Frischwassersystem",
+  "subtitle": "Frischwassertank befüllen, Wasserstand, Winterbetrieb",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "frischwasser",
+    "tank",
+    "befüllen",
+    "wasserstand",
+    "winter",
+    "frostschutz"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Tank befüllen"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Öffnen Sie die Serviceklappe auf der rechten Fahrzeugseite",
+        "Schließen Sie den Frischwasserschlauch an den Einfüllstutzen an",
+        "Befüllen Sie den Tank — der Wasserstand wird auf dem Bedienfeld angezeigt",
+        "Schließen Sie den Einfüllstutzen und die Serviceklappe nach dem Befüllen"
+      ]
+    },
+    {
+      "type": "info",
+      "content": "Verwenden Sie ausschließlich sauberes Trinkwasser. Überprüfen Sie den Wasserstand regelmäßig über das Bedienfeld oder die App."
+    },
+    {
+      "type": "heading",
+      "content": "Winterbetrieb"
+    },
+    {
+      "type": "warning",
+      "content": "Bei Temperaturen unter 0°C besteht die Gefahr, dass Wasserleitungen einfrieren und platzen. Entleeren Sie bei längerem Frostbetrieb die Leitungen oder halten Sie die Fahrzeugheizung in Betrieb."
+    }
+  ]
+}
