@@ -5,8 +5,20 @@
   "subtitle": "Hubbett absenken und anheben",
   "validFrom": "2023-01",
   "validUntil": null,
-  "models": ["perfection"],
-  "tags": ["hubbett", "plateau", "bett", "absenken", "anheben", "schlafen"],
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "hubbett",
+    "plateau",
+    "bett",
+    "absenken",
+    "anheben",
+    "schlafen"
+  ],
   "sections": [
     {
       "type": "heading",
