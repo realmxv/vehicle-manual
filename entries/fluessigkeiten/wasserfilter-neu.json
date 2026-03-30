@@ -5,8 +5,19 @@
   "subtitle": "Aktualisierter Wasserfilter mit Schnellwechsel-Kartusche",
   "validFrom": "2026-08",
   "validUntil": null,
-  "models": ["perfection"],
-  "tags": ["wasser", "wasserfilter", "filter", "kartusche", "schnellwechsel"],
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "wasser",
+    "wasserfilter",
+    "filter",
+    "kartusche",
+    "schnellwechsel"
+  ],
   "sections": [
     {
       "type": "heading",
