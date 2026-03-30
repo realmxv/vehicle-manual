@@ -4,17 +4,75 @@
   "lastUpdated": "2026-03-30",
   "baseImageUrl": "https://raw.githubusercontent.com/realmxv/vehicle-manual/main/images/",
   "categories": [
-    {"id": "fahrzeug", "name": "Fahrzeug", "icon": "car", "description": "Motor, Startvorgang, Fahrbetrieb, Bremsen, Beleuchtung"},
-    {"id": "wallout", "name": "Wallout / Slideout", "icon": "arrows.left.and.right", "description": "Erker ausfahren, einfahren, Sicherheitshinweise"},
-    {"id": "technik", "name": "Technik", "icon": "wrench", "description": "Elektrik, Batterien, Solaranlage, Wechselrichter"},
-    {"id": "hydraulik", "name": "Hydraulik", "icon": "gauge", "description": "Stuetzensystem, Niveauregulierung, Hydraulikoel"},
-    {"id": "fluessigkeiten", "name": "Fluessigkeiten", "icon": "drop", "description": "Frischwasser, Abwasser, Motoroel, Bremsfluessigkeit, AdBlue"},
-    {"id": "heizung", "name": "Heizung", "icon": "flame", "description": "Warmwasser, Fussbodenheizung, Standheizung"},
-    {"id": "klima", "name": "Klima", "icon": "snowflake", "description": "Klimaanlage, Lueftung, Dachklimaanlage"},
-    {"id": "plateau", "name": "Plateau / Hubbett", "icon": "bed.double", "description": "Hubbett, Plateau absenken/anheben"}
+    {
+      "id": "fahrzeug",
+      "name": "Fahrzeug",
+      "icon": "car",
+      "description": "Motor, Startvorgang, Fahrbetrieb, Bremsen, Beleuchtung"
+    },
+    {
+      "id": "wallout",
+      "name": "Wallout / Slideout",
+      "icon": "arrows.left.and.right",
+      "description": "Erker ausfahren, einfahren, Sicherheitshinweise"
+    },
+    {
+      "id": "technik",
+      "name": "Technik",
+      "icon": "wrench",
+      "description": "Elektrik, Batterien, Solaranlage, Wechselrichter"
+    },
+    {
+      "id": "hydraulik",
+      "name": "Hydraulik",
+      "icon": "gauge",
+      "description": "Stuetzensystem, Niveauregulierung, Hydraulikoel"
+    },
+    {
+      "id": "fluessigkeiten",
+      "name": "Fluessigkeiten",
+      "icon": "drop",
+      "description": "Frischwasser, Abwasser, Motoroel, Bremsfluessigkeit, AdBlue"
+    },
+    {
+      "id": "heizung",
+      "name": "Heizung",
+      "icon": "flame",
+      "description": "Warmwasser, Fussbodenheizung, Standheizung"
+    },
+    {
+      "id": "klima",
+      "name": "Klima",
+      "icon": "snowflake",
+      "description": "Klimaanlage, Lueftung, Dachklimaanlage"
+    },
+    {
+      "id": "plateau",
+      "name": "Plateau / Hubbett",
+      "icon": "bed.double",
+      "description": "Hubbett, Plateau absenken/anheben"
+    }
   ],
   "models": [
-    {"id": "perfection", "name": "Perfection", "productionStart": "2023-01"},
-    {"id": "i-vent", "name": "i-Vent", "productionStart": "2024-06"}
+    {
+      "id": "performance",
+      "name": "Performance",
+      "productionStart": "2023-01"
+    },
+    {
+      "id": "performance-s",
+      "name": "Performance S",
+      "productionStart": "2023-01"
+    },
+    {
+      "id": "perfection",
+      "name": "Perfection",
+      "productionStart": "2023-01"
+    },
+    {
+      "id": "elfer-performance",
+      "name": "Elfer Performance",
+      "productionStart": "2023-01"
+    }
   ]
 }
