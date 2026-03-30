@@ -1,0 +1,46 @@
+{
+  "id": "plateau-hubbett",
+  "category": "plateau",
+  "title": "Hubbett / Plateau",
+  "subtitle": "Hubbett absenken und anheben",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": ["perfection"],
+  "tags": ["hubbett", "plateau", "bett", "absenken", "anheben", "schlafen"],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Hubbett absenken"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Sicherstellen, dass der Bereich unter dem Hubbett frei ist",
+        "Taste am Bedienpanel oder Fernbedienung: 'Hubbett AB'",
+        "Taste gedrückt halten bis gewünschte Höhe erreicht",
+        "Hubbett stoppt automatisch in unterster Position"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Beim Absenken dürfen sich keine Personen oder Gegenstände unter dem Hubbett befinden!"
+    },
+    {
+      "type": "heading",
+      "content": "Hubbett anheben"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Bettwäsche und lose Gegenstände sichern",
+        "Taste 'Hubbett AUF' gedrückt halten",
+        "Hubbett fährt in Parkposition unter die Decke"
+      ]
+    },
+    {
+      "type": "image",
+      "image": "images/plateau/hubbett_bedienung.jpg",
+      "caption": "Fernbedienung für das Hubbett"
+    }
+  ]
+}
