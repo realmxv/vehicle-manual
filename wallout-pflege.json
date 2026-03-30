@@ -1,0 +1,83 @@
+{
+  "id": "wallout-pflege",
+  "category": "wallout",
+  "title": "Wallout Pflege",
+  "subtitle": "Reinigung, Silikonpflege und Wartungsintervalle",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "wallout",
+    "pflege",
+    "reinigung",
+    "silicon",
+    "spray",
+    "dichtung",
+    "wartung",
+    "slideout"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Wallout komplett reinigen"
+    },
+    {
+      "type": "text",
+      "content": "Vor der Pflege muss die gesamte Wallout-Fläche gründlich gereinigt werden. Entferne Schmutz, Staub, Blätter und alle Ablagerungen von den Dichtungen und Gleitflächen."
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Wallout vollständig ausfahren",
+        "Alle sichtbaren Flächen und Dichtungen mit warmem Wasser und einem weichen Tuch abwischen",
+        "Hartnäckige Verschmutzungen vorsichtig mit milder Seifenlauge entfernen",
+        "Dichtungen und Gleitflächen mit klarem Wasser nachspülen",
+        "Alle Flächen vollständig trocknen lassen"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Silikonspray auftragen"
+    },
+    {
+      "type": "text",
+      "content": "Nach der Reinigung wird die gesamte Wallout-Fläche mit Silikonspray behandelt. Das Spray sorgt dafür, dass die Dichtungen geschmeidig bleiben und der Wallout leichtgängig ein- und ausfährt."
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Silikonspray bereithalten (handelsübliches Silikonspray ohne Lösungsmittel)",
+        "Den Wallout ringsherum sorgfältig mit Silikonspray einsprühen",
+        "Besonders die Dichtungen und Gleitflächen großzügig behandeln",
+        "Das Spray kurz einwirken lassen",
+        "Mit einem sauberen Tuch gleichmäßig verteilen"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Wartungsintervalle"
+    },
+    {
+      "type": "info",
+      "content": "Die Silikonpflege sollte regelmäßig durchgeführt werden, um die Lebensdauer der Dichtungen zu verlängern und einen reibungslosen Betrieb sicherzustellen."
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Nach jeder Benutzung des Wallouts prüfen und bei Bedarf nachpflegen",
+        "Nach jeder Fahrzeugwäsche die Silikonschicht erneuern",
+        "Wenn sich die Wallout-Fläche nicht mehr glitschig anfühlt, sofort nachsprühen",
+        "Mindestens alle 4 Wochen bei regelmäßiger Nutzung"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Äste, Zweige und Gegenstände auf dem Wallout oder in den Dichtungen können die Dichtung zerstören. Vor jedem Ein- und Ausfahren den Wallout-Bereich auf Fremdkörper kontrollieren!"
+    }
+  ]
+}
