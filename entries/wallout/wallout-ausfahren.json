@@ -5,8 +5,19 @@
   "subtitle": "WallOut bedienen",
   "validFrom": "2023-01",
   "validUntil": null,
-  "models": ["perfection", "performance", "performanceS"],
-  "tags": ["wallout", "slideout", "erker", "ausfahren", "erweitern"],
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "wallout",
+    "slideout",
+    "erker",
+    "ausfahren",
+    "erweitern"
+  ],
   "sections": [
     {
       "type": "heading",
