@@ -1,0 +1,52 @@
+{
+  "id": "wallout-ausfahren",
+  "category": "wallout",
+  "title": "Wallout ausfahren",
+  "subtitle": "Slideout / Erker ausfahren",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": ["perfection"],
+  "tags": ["wallout", "slideout", "erker", "ausfahren", "erweitern"],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Voraussetzungen"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Fahrzeug steht auf ebenem Untergrund",
+        "Stützen sind ausgefahren und nivelliert",
+        "Motor ist aus ODER Handbremse angezogen",
+        "Keine Gegenstände im Schwenkbereich des Wallouts"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Vor dem Ausfahren sicherstellen, dass sich keine Personen im Schwenkbereich befinden!"
+    },
+    {
+      "type": "heading",
+      "content": "Wallout ausfahren"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Bedienpanel aufrufen und Wallout-Menü öffnen",
+        "Taste 'Wallout AUS' gedrückt halten",
+        "Wallout fährt langsam aus \u2013 Taste durchgehend halten",
+        "Wenn Endposition erreicht: akustisches Signal ertönt",
+        "Taste loslassen \u2013 Verriegelung prüfen"
+      ]
+    },
+    {
+      "type": "image",
+      "image": "images/wallout/wallout_bedienfeld.jpg",
+      "caption": "Bedienfeld für den Wallout"
+    },
+    {
+      "type": "info",
+      "content": "Der Wallout stoppt automatisch bei Hinderniserkennung. In diesem Fall Hindernis entfernen und erneut versuchen."
+    }
+  ]
+}
