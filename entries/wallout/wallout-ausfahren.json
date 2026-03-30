@@ -16,14 +16,14 @@
       "type": "checklist",
       "content": [
         "Fahrzeug steht auf ebenem Untergrund",
-        "Stützen sind ausgefahren und nivelliert",
-        "Motor ist aus ODER Handbremse angezogen",
-        "Keine Gegenstände im Schwenkbereich des Wallouts"
+        "Optimal sind die Stützen ausgefahren und nivelliert",
+        "Motor ist aus und Handbremse ist angezogen",
+        "Keine Gegenstände im Fahrbereich des Wallouts. Innen und Außen."
       ]
     },
     {
       "type": "warning",
-      "content": "Vor dem Ausfahren sicherstellen, dass sich keine Personen im Schwenkbereich befinden!"
+      "content": "Vor dem Ausfahren sicherstellen, dass sich keine Personen im Fahrbereich befinden, Außen und Innen!"
     },
     {
       "type": "heading",
@@ -32,21 +32,16 @@
     {
       "type": "steps",
       "content": [
-        "Bedienpanel aufrufen und Wallout-Menü öffnen",
-        "Taste 'Wallout AUS' gedrückt halten",
-        "Wallout fährt langsam aus \u2013 Taste durchgehend halten",
-        "Wenn Endposition erreicht: akustisches Signal ertönt",
-        "Taste loslassen \u2013 Verriegelung prüfen"
+        "VolknerUX aufrufen und über Apps das Wallout-Menü öffnen",
+        "Den Schalter Verfahren aktivieren um die Dichtung zu evakuieren",
+        "Sobald die Luft aus der Dichtung evakuiert ist, erscheinen die Tatser zum Ein- und Ausfahren",
+        "Den WallOut nur so lange fahren bis er nicht weiter verfährt und überprüfen, ob er sich in der Endstellung befindet",
+        "Schalter Verfahren deaktivieren um die Dichtung wieder aufzupumpen"
       ]
     },
     {
-      "type": "image",
-      "image": "images/wallout/wallout_bedienfeld.jpg",
-      "caption": "Bedienfeld für den Wallout"
-    },
-    {
       "type": "info",
-      "content": "Der Wallout stoppt automatisch bei Hinderniserkennung. In diesem Fall Hindernis entfernen und erneut versuchen."
+      "content": "Bei Regen das Fahrzeug vorher zur Seite kippen. Bei Schnee und Frost muss das Dach des WallOut gereinigt werden."
     }
   ]
 }
