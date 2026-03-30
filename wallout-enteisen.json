@@ -1,0 +1,72 @@
+{
+  "id": "wallout-enteisen",
+  "category": "wallout",
+  "title": "Wallout Enteisen",
+  "subtitle": "Vereisten Wallout sicher auftauen und einfahren",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "wallout",
+    "eis",
+    "enteisen",
+    "frost",
+    "winter",
+    "heizung",
+    "eingefroren",
+    "slideout"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Wallout-Heizung einschalten"
+    },
+    {
+      "type": "text",
+      "content": "Der Wallout verfügt über eine eigene Heizung, die bei Vereisung eingeschaltet werden kann. Steuern Sie die Heizung über die App."
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Öffnen Sie die Apps auf dem Bedienfeld oder Tablet",
+        "Wählen Sie den Menüpunkt \"Wallout\"",
+        "Aktivieren Sie \"Heizung\" (auf AN stellen)",
+        "Lassen Sie die Heizung laufen, bis das Eis vollständig aufgetaut ist"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Bei stark festgefrorenem Eis kann der Auftauvorgang bis zu 24 Stunden dauern. Fahren Sie den Wallout NIEMALS mit Gewalt ein, wenn er noch vereist ist!"
+    },
+    {
+      "type": "heading",
+      "content": "Vor dem Einfahren kontrollieren"
+    },
+    {
+      "type": "text",
+      "content": "Bevor Sie den Wallout einfahren, stellen Sie sicher, dass kein Eis mehr vorhanden ist — insbesondere auf dem Dach des Wallouts."
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Kontrollieren Sie das Dach des Wallouts auf Eisreste",
+        "Prüfen Sie die seitlichen Dichtungen auf Eisreste",
+        "Prüfen Sie die unteren Gleitflächen auf Eisreste",
+        "Schalten Sie die Wallout-Heizung erst aus, wenn alles eisfrei ist"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Eisreste auf dem Dach des Wallouts können beim Einfahren die Dichtung und die Außenhaut beschädigen. Kontrollieren Sie vor dem Einfahren immer, dass keine Eisreste auf dem Dach liegen!"
+    },
+    {
+      "type": "info",
+      "content": "Sie können die Wallout-Heizung auch vorbeugend einschalten, wenn Frost erwartet wird. So verhindern Sie ein Festfrieren von vornherein."
+    }
+  ]
+}
