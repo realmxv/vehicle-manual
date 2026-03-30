@@ -5,8 +5,21 @@
   "subtitle": "Frischwassertank, Pumpe, Wasserfilter",
   "validFrom": "2023-01",
   "validUntil": null,
-  "models": ["perfection", "i-vent"],
-  "tags": ["wasser", "frischwasser", "tank", "pumpe", "filter", "wasserfilter", "befüllen"],
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "wasser",
+    "frischwasser",
+    "tank",
+    "pumpe",
+    "filter",
+    "wasserfilter",
+    "befüllen"
+  ],
   "sections": [
     {
       "type": "heading",
@@ -17,8 +30,8 @@
       "content": [
         "Einfüllstutzen auf der linken Fahrzeugseite öffnen",
         "Trinkwasserschlauch anschließen",
-        "Wasser einfüllen \u2013 Füllstand wird am Bedienpanel angezeigt",
-        "Bei vollem Tank: Überlauf läuft ab \u2013 Befüllung stoppen",
+        "Wasser einfüllen – Füllstand wird am Bedienpanel angezeigt",
+        "Bei vollem Tank: Überlauf läuft ab – Befüllung stoppen",
         "Stutzen verschließen"
       ]
     },
