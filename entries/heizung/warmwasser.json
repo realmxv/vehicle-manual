@@ -5,8 +5,20 @@
   "subtitle": "Boiler, Warmwasser und Fußbodenheizung",
   "validFrom": "2023-01",
   "validUntil": null,
-  "models": ["perfection", "i-vent"],
-  "tags": ["warmwasser", "boiler", "heizung", "fußbodenheizung", "thermostat", "temperatur"],
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "warmwasser",
+    "boiler",
+    "heizung",
+    "fußbodenheizung",
+    "thermostat",
+    "temperatur"
+  ],
   "sections": [
     {
       "type": "heading",
