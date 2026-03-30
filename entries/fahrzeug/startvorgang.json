@@ -1,0 +1,53 @@
+{
+  "id": "fahrzeug-startvorgang",
+  "category": "fahrzeug",
+  "title": "Startvorgang",
+  "subtitle": "Motor starten und Startvoraussetzungen",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": ["perfection", "i-vent"],
+  "tags": ["start", "motor", "zündung", "anlassen", "stützen", "neutral", "gangwahlhebel"],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Startvoraussetzungen"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Stützen sind vollständig eingefahren",
+        "Gangwahlhebel steht auf Neutral (N)",
+        "Wallout / Slideout ist eingefahren",
+        "Handbremse ist angezogen",
+        "Batterie-Hauptschalter ist eingeschaltet"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Niemals den Motor starten, solange die Stützen ausgefahren sind! Beschädigungsgefahr am Fahrwerk."
+    },
+    {
+      "type": "heading",
+      "content": "Motor starten"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Schlüssel in Zündschloss stecken und auf Position 1 drehen (Zündung ein)",
+        "Kontrollleuchten prüfen \u2013 alle Warnleuchten müssen kurz aufleuchten",
+        "Schlüssel auf Position 2 drehen und halten bis Motor anspringt",
+        "Schlüssel loslassen \u2013 Motor läuft im Leerlauf",
+        "Öldruck- und Ladekontrollleuchte müssen erlöschen"
+      ]
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/startvorgang_armaturenbrett.jpg",
+      "caption": "Armaturenbrett mit Kontrollleuchten beim Startvorgang"
+    },
+    {
+      "type": "info",
+      "content": "Bei kaltem Motor: Mindestens 30 Sekunden im Leerlauf warmlaufen lassen, bevor losgefahren wird."
+    }
+  ]
+}
