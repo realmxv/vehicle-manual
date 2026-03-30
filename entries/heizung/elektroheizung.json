@@ -1,0 +1,50 @@
+{
+  "id": "heizung-elektroheizung",
+  "category": "heizung",
+  "title": "Elektroheizung",
+  "subtitle": "Elektrische Zusatzheizung für den Wohnbereich",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "elektroheizung",
+    "elektrisch",
+    "heizung",
+    "230v",
+    "landstrom",
+    "zusatzheizung"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Elektroheizung einschalten"
+    },
+    {
+      "type": "text",
+      "content": "Die Elektroheizung ist eine elektrische Zusatzheizung, die mit 230V Landstrom betrieben wird. Sie eignet sich besonders als Ergänzung zur Diesel-Heizung oder als alleinige Heizung bei Landstromanschluss."
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Stellen Sie sicher, dass Ihr Fahrzeug an Landstrom (230V) angeschlossen ist",
+        "Öffnen Sie das Heizungsmenü auf dem Bedienfeld oder in der App",
+        "Wählen Sie \"Elektroheizung\"",
+        "Stellen Sie die gewünschte Temperatur oder Leistungsstufe ein",
+        "Aktivieren Sie die Heizung"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Die Elektroheizung funktioniert nur mit Landstrom (230V). Stellen Sie sicher, dass der Stromanschluss am Stellplatz ausreichend abgesichert ist, um eine Überlastung zu vermeiden."
+    },
+    {
+      "type": "info",
+      "content": "Die Elektroheizung verursacht keine Abgase und ist besonders leise im Betrieb. Sie können sie bedenkenlos auch in geschlossenen Hallen verwenden."
+    }
+  ]
+}
