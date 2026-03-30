@@ -1,6 +1,6 @@
 {
   "name": "Fahrzeug-Bedienungsanleitung",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "lastUpdated": "2026-03-30",
   "baseImageUrl": "https://raw.githubusercontent.com/realmxv/vehicle-manual/main/images/",
   "categories": [
@@ -8,49 +8,75 @@
       "id": "fahrzeug",
       "name": "Fahrzeug",
       "icon": "car",
-      "description": "Motor, Startvorgang, Fahrbetrieb, Bremsen, Beleuchtung"
+      "description": "Motor, Startvorgang, Fahrbetrieb, Bremsen, Beleuchtung",
+      "entries": [
+        "startvorgang.json",
+        "beleuchtung.json"
+      ]
     },
     {
       "id": "wallout",
       "name": "Wallout / Slideout",
       "icon": "arrows.left.and.right",
-      "description": "Erker ausfahren, einfahren, Sicherheitshinweise"
+      "description": "Erker ausfahren, einfahren, Sicherheitshinweise",
+      "entries": [
+        "wallout-ausfahren.json"
+      ]
     },
     {
       "id": "technik",
       "name": "Technik",
       "icon": "wrench",
-      "description": "Elektrik, Batterien, Solaranlage, Wechselrichter"
+      "description": "Elektrik, Batterien, Solaranlage, Wechselrichter",
+      "entries": [
+        "batterien.json"
+      ]
     },
     {
       "id": "hydraulik",
       "name": "Hydraulik",
       "icon": "gauge",
-      "description": "Stuetzensystem, Niveauregulierung, Hydraulikoel"
+      "description": "Stuetzensystem, Niveauregulierung, Hydraulikoel",
+      "entries": [
+        "stuetzen.json"
+      ]
     },
     {
       "id": "fluessigkeiten",
       "name": "Fluessigkeiten",
       "icon": "drop",
-      "description": "Frischwasser, Abwasser, Motoroel, Bremsfluessigkeit, AdBlue"
+      "description": "Frischwasser, Abwasser, Motoroel, Bremsfluessigkeit, AdBlue",
+      "entries": [
+        "frischwasser.json",
+        "wasserfilter-neu.json"
+      ]
     },
     {
       "id": "heizung",
       "name": "Heizung",
       "icon": "flame",
-      "description": "Warmwasser, Fussbodenheizung, Standheizung"
+      "description": "Warmwasser, Fussbodenheizung, Standheizung",
+      "entries": [
+        "warmwasser.json"
+      ]
     },
     {
       "id": "klima",
       "name": "Klima",
       "icon": "snowflake",
-      "description": "Klimaanlage, Lueftung, Dachklimaanlage"
+      "description": "Klimaanlage, Lueftung, Dachklimaanlage",
+      "entries": [
+        "klimaanlage.json"
+      ]
     },
     {
       "id": "plateau",
       "name": "Plateau / Hubbett",
       "icon": "bed.double",
-      "description": "Hubbett, Plateau absenken/anheben"
+      "description": "Hubbett, Plateau absenken/anheben",
+      "entries": [
+        "hubbett.json"
+      ]
     }
   ],
   "models": [
