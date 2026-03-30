@@ -1,0 +1,42 @@
+{
+  "id": "heizung-warmwasser",
+  "category": "heizung",
+  "title": "Warmwasserbereitung",
+  "subtitle": "Boiler, Warmwasser und Fußbodenheizung",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": ["perfection", "i-vent"],
+  "tags": ["warmwasser", "boiler", "heizung", "fußbodenheizung", "thermostat", "temperatur"],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Warmwasser einschalten"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Bedienpanel: Menü 'Heizung' öffnen",
+        "Warmwasser-Taste aktivieren (Boiler-Symbol)",
+        "Wunschtemperatur einstellen (empfohlen: 60°C)",
+        "Aufheizzeit: ca. 20-30 Minuten"
+      ]
+    },
+    {
+      "type": "info",
+      "content": "Der Boiler kann über 230V Landstrom oder Gas betrieben werden. Im Gasbetrieb ist die Aufheizzeit etwas länger."
+    },
+    {
+      "type": "heading",
+      "content": "Fußbodenheizung"
+    },
+    {
+      "type": "text",
+      "content": "Die Fußbodenheizung wird über den Thermostat im Wohnbereich gesteuert. Sie bezieht die Wärme vom Boiler-Kreislauf."
+    },
+    {
+      "type": "image",
+      "image": "images/heizung/warmwasser_bedienpanel.jpg",
+      "caption": "Heizungs-Einstellungen am Bedienpanel"
+    }
+  ]
+}
