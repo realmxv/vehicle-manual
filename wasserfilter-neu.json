@@ -1,0 +1,47 @@
+{
+  "id": "fluessigkeiten-wasserfilter-neu",
+  "category": "fluessigkeiten",
+  "title": "Neuer Wasserfilter",
+  "subtitle": "Aktualisiertes Wasserfiltersystem mit verbesserter Filtration",
+  "validFrom": "2026-08",
+  "validUntil": null,
+  "models": [
+    "perfection"
+  ],
+  "tags": [
+    "wasserfilter",
+    "filter",
+    "wasser",
+    "reinigung",
+    "trinkwasser"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Neuer Wasserfilter"
+    },
+    {
+      "type": "text",
+      "content": "Ab Baujahr August 2026 ist Ihr Fahrzeug mit einem neuen, verbesserten Wasserfiltersystem ausgestattet. Dieser Filter bietet eine feinere Filtration und eine längere Lebensdauer."
+    },
+    {
+      "type": "heading",
+      "content": "Filterwechsel"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Öffnen Sie die Serviceklappe zum Wasserfiltergehäuse",
+        "Drehen Sie das Filtergehäuse gegen den Uhrzeigersinn auf",
+        "Entnehmen Sie den alten Filter",
+        "Setzen Sie den neuen Filter ein und achten Sie auf die Pfeilrichtung",
+        "Drehen Sie das Gehäuse im Uhrzeigersinn fest",
+        "Lassen Sie ca. 5 Liter Wasser durchlaufen, bevor Sie es verwenden"
+      ]
+    },
+    {
+      "type": "info",
+      "content": "Wechseln Sie den Filter alle 6 Monate oder nach 10.000 Litern — je nachdem, was zuerst eintritt."
+    }
+  ]
+}
