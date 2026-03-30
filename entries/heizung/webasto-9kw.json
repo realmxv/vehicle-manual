@@ -1,0 +1,62 @@
+{
+  "id": "heizung-webasto-9kw",
+  "category": "heizung",
+  "title": "Webasto-Heizung 9 kW",
+  "subtitle": "Webasto-Dieselheizung 9 kW bedienen und einstellen",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "webasto",
+    "heizung",
+    "diesel",
+    "9kw",
+    "standheizung",
+    "warmluft"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Webasto-Heizung einschalten"
+    },
+    {
+      "type": "text",
+      "content": "Die Webasto-Heizung mit 9 kW Leistung ist eine leistungsstarke Diesel-betriebene Heizung für den Wohnbereich. Sie eignet sich besonders für den Winterbetrieb."
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Öffnen Sie das Heizungsmenü auf dem Bedienfeld oder in der App",
+        "Wählen Sie \"Webasto-Heizung 9 kW\"",
+        "Stellen Sie die gewünschte Temperatur ein",
+        "Aktivieren Sie die Heizung"
+      ]
+    },
+    {
+      "type": "info",
+      "content": "Die Webasto-Heizung kann sowohl den Wohnbereich beheizen als auch das Frischwasser erwärmen. Sie arbeitet unabhängig vom Fahrzeugmotor und benötigt Diesel aus dem Fahrzeugtank."
+    },
+    {
+      "type": "heading",
+      "content": "Hinweise zum Betrieb"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Stellen Sie sicher, dass die Abgasöffnung frei und nicht blockiert ist",
+        "Achten Sie auf ausreichenden Dieselstand im Fahrzeugtank",
+        "Lassen Sie die Heizung nach dem Ausschalten nachlaufen, bis der Lüfter stoppt",
+        "Bei Störungen wird ein Fehlercode auf dem Bedienfeld angezeigt"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Blockieren Sie niemals die Abgas- oder Zuluftöffnungen! Es besteht Vergiftungsgefahr. Stellen Sie sicher, dass der Abgasbereich am Fahrzeug frei ist, insbesondere im Winter bei Schnee."
+    }
+  ]
+}
