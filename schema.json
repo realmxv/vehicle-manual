@@ -1,0 +1,72 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Bedienungsanleitung Entry",
+  "description": "Schema für einen einzelnen Eintrag in der Fahrzeug-Bedienungsanleitung",
+  "type": "object",
+  "required": ["id", "category", "title", "validFrom", "models", "sections"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Eindeutige ID, z.B. 'fahrzeug-startvorgang'"
+    },
+    "category": {
+      "type": "string",
+      "enum": ["fahrzeug", "wallout", "technik", "hydraulik", "fluessigkeiten", "heizung", "klima", "plateau"],
+      "description": "Hauptkategorie"
+    },
+    "title": {
+      "type": "string",
+      "description": "Titel des Eintrags"
+    },
+    "subtitle": {
+      "type": "string",
+      "description": "Optionaler Untertitel"
+    },
+    "validFrom": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}$",
+      "description": "Ab wann dieser Eintrag gilt, Format: YYYY-MM (z.B. 2024-01)"
+    },
+    "validUntil": {
+      "type": ["string", "null"],
+      "pattern": "^\\d{4}-\\d{2}$",
+      "description": "Bis wann dieser Eintrag gilt (null = aktuell gültig)"
+    },
+    "models": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Für welche Modelle dieser Eintrag gilt, z.B. ['perfection', 'i-vent']"
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Suchbegriffe für die intelligente Suche"
+    },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type"],
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": ["heading", "text", "warning", "info", "steps", "image", "checklist"],
+            "description": "Art des Abschnitts"
+          },
+          "content": {
+            "type": ["string", "array"],
+            "description": "Textinhalt oder Array von Schritten/Checkpunkten"
+          },
+          "image": {
+            "type": "string",
+            "description": "Relativer Pfad zum Bild im Repository"
+          },
+          "caption": {
+            "type": "string",
+            "description": "Bildbeschreibung"
+          }
+        }
+      }
+    }
+  }
+}
