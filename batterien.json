@@ -1,0 +1,65 @@
+{
+  "id": "technik-batterien",
+  "category": "technik",
+  "title": "Batterien & Stromversorgung",
+  "subtitle": "Aufbau- und Starterbatterie, Ladezustände, Solaranlage",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "batterie",
+    "strom",
+    "solar",
+    "laden",
+    "wechselrichter",
+    "landstrom",
+    "spannung"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Batteriesystem"
+    },
+    {
+      "type": "text",
+      "content": "Ihr Fahrzeug verfügt über eine Starterbatterie für den Fahrzeugmotor und Aufbaubatterien für den Wohnbereich. Beide Systeme sind voneinander getrennt."
+    },
+    {
+      "type": "heading",
+      "content": "Aufbaubatterien laden"
+    },
+    {
+      "type": "text",
+      "content": "Die Aufbaubatterien werden über mehrere Quellen geladen:"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Landstrom (230V Anschluss) — automatisches Laden bei Anschluss",
+        "Solaranlage — automatisches Laden bei Sonneneinstrahlung",
+        "Lichtmaschine — Laden während der Fahrt"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Ladezustand prüfen"
+    },
+    {
+      "type": "text",
+      "content": "Prüfen Sie den Ladezustand der Batterien über das Bedienfeld oder die App. Dort werden Ihnen Spannung und Ladestand übersichtlich angezeigt."
+    },
+    {
+      "type": "warning",
+      "content": "Lassen Sie die Aufbaubatterien nicht unter 20% Ladestand fallen. Eine Tiefentladung kann die Batterien dauerhaft beschädigen!"
+    },
+    {
+      "type": "info",
+      "content": "Wenn Sie Ihr Fahrzeug längere Zeit abstellen, schließen Sie es nach Möglichkeit an Landstrom an oder stellen Sie sicher, dass die Solaranlage die Batterien ausreichend versorgt."
+    }
+  ]
+}
