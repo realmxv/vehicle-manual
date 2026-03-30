@@ -1,0 +1,88 @@
+{
+  "id": "wallout-sicherheitshinweise",
+  "category": "wallout",
+  "title": "Sicherheitshinweise Wallout",
+  "subtitle": "Wichtige Sicherheitsregeln für den Wallout-Betrieb",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "wallout",
+    "sicherheit",
+    "sicherheitshinweise",
+    "dichtung",
+    "gefahr",
+    "beschädigung",
+    "slideout"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Allgemeine Sicherheitshinweise"
+    },
+    {
+      "type": "warning",
+      "content": "Der Wallout darf nur bei stehendem Fahrzeug und auf festem, ebenem Untergrund ausgefahren werden. Niemals den Wallout während der Fahrt ausfahren!"
+    },
+    {
+      "type": "heading",
+      "content": "Fremdkörper und Dichtungsschutz"
+    },
+    {
+      "type": "text",
+      "content": "Äste, Zweige, Laub und andere Gegenstände auf dem Wallout oder in den Dichtungen stellen eine ernsthafte Gefahr für die Dichtungen dar. Bereits kleine Fremdkörper können beim Ein- oder Ausfahren die Dichtung dauerhaft beschädigen."
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Vor jedem Ausfahren den Bereich neben dem Fahrzeug auf Hindernisse prüfen",
+        "Vor jedem Einfahren das Dach des Wallouts auf Äste, Laub und Gegenstände kontrollieren",
+        "Dichtungen regelmäßig auf Fremdkörper und Beschädigungen sichtprüfen",
+        "Überhängende Äste am Stellplatz beachten — diese können beim Ausfahren auf den Wallout fallen",
+        "Keine Gegenstände auf dem Dach des Wallouts abstellen oder lagern"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Gegenstände auf dem Wallout-Dach können die Dichtung zerstören und zu Wasserschäden im Fahrzeuginneren führen. Vor jedem Einfahren das Dach kontrollieren!"
+    },
+    {
+      "type": "heading",
+      "content": "Personen und Tiere"
+    },
+    {
+      "type": "text",
+      "content": "Beim Ein- und Ausfahren des Wallouts dürfen sich keine Personen oder Tiere im Gefahrenbereich befinden. Der Wallout bewegt sich mit erheblicher Kraft und kann schwere Verletzungen verursachen."
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Vor dem Ein-/Ausfahren sicherstellen, dass sich niemand im Bewegungsbereich aufhält",
+        "Kinder und Haustiere vom Wallout-Bereich fernhalten",
+        "Während des Betriebs den Wallout beobachten und bei Hindernissen sofort stoppen"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Witterung und Umgebung"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Bei Sturm oder starkem Wind den Wallout nach Möglichkeit einfahren",
+        "Bei Frost und Vereisung die Wallout-Heizung rechtzeitig einschalten (siehe Anleitung \"Wallout Enteisen\")",
+        "Auf Schräglage des Fahrzeugs achten — der Wallout funktioniert am besten auf ebenem Grund",
+        "Stellplatz so wählen, dass genügend Platz für den ausgefahrenen Wallout vorhanden ist"
+      ]
+    },
+    {
+      "type": "info",
+      "content": "Regelmäßige Pflege und Silikonbehandlung der Dichtungen verlängert deren Lebensdauer erheblich. Details dazu in der Anleitung \"Wallout Pflege\"."
+    }
+  ]
+}
