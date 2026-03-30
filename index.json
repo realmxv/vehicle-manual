@@ -18,9 +18,12 @@
       "id": "wallout",
       "name": "Wallout / Slideout",
       "icon": "arrows.left.and.right",
-      "description": "Erker ausfahren, einfahren, Sicherheitshinweise",
+      "description": "Erker ausfahren, einfahren, Pflege, Enteisen, Sicherheitshinweise",
       "entries": [
-        "wallout-ausfahren.json"
+        "wallout-ausfahren.json",
+        "wallout-pflege.json",
+        "wallout-enteisen.json",
+        "wallout-sicherheitshinweise.json"
       ]
     },
     {
