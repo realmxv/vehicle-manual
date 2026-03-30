@@ -1,0 +1,60 @@
+{
+  "id": "hydraulik-stuetzen",
+  "category": "hydraulik",
+  "title": "Stützensystem",
+  "subtitle": "Hydraulische Stützen ausfahren, nivellieren, einfahren",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "stützen",
+    "hydraulik",
+    "nivellierung",
+    "ausrichten",
+    "wasserwaage",
+    "level"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Stützen ausfahren"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Stellen Sie das Fahrzeug ab und ziehen Sie die Feststellbremse an",
+        "Öffnen Sie das Stützen-Menü auf dem Bedienfeld oder in der App",
+        "Wählen Sie \"Stützen ausfahren\" oder \"Auto-Level\"",
+        "Warten Sie, bis die Nivellierung abgeschlossen ist",
+        "Prüfen Sie die Wasserwaage auf dem Bedienfeld"
+      ]
+    },
+    {
+      "type": "info",
+      "content": "Die automatische Nivellierung richtet Ihr Fahrzeug selbstständig aus. Sie können bei Bedarf auch einzelne Stützen manuell nachjustieren."
+    },
+    {
+      "type": "heading",
+      "content": "Stützen einfahren"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Stellen Sie sicher, dass der Wallout vollständig eingefahren ist",
+        "Öffnen Sie das Stützen-Menü auf dem Bedienfeld oder in der App",
+        "Wählen Sie \"Stützen einfahren\"",
+        "Warten Sie, bis alle Stützen vollständig eingefahren sind",
+        "Kontrollieren Sie visuell, dass keine Stütze mehr herausragt"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Fahren Sie niemals los, solange die Stützen nicht vollständig eingefahren sind! Kontrollieren Sie vor der Abfahrt immer den Stützenstatus auf dem Bedienfeld."
+    }
+  ]
+}
