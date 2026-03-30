@@ -5,8 +5,21 @@
   "subtitle": "Motor starten und Startvoraussetzungen",
   "validFrom": "2023-01",
   "validUntil": null,
-  "models": ["perfection", "i-vent"],
-  "tags": ["start", "motor", "zündung", "anlassen", "stützen", "neutral", "gangwahlhebel"],
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "start",
+    "motor",
+    "zündung",
+    "anlassen",
+    "stützen",
+    "neutral",
+    "gangwahlhebel"
+  ],
   "sections": [
     {
       "type": "heading",
@@ -34,9 +47,9 @@
       "type": "steps",
       "content": [
         "Schlüssel in Zündschloss stecken und auf Position 1 drehen (Zündung ein)",
-        "Kontrollleuchten prüfen \u2013 alle Warnleuchten müssen kurz aufleuchten",
+        "Kontrollleuchten prüfen – alle Warnleuchten müssen kurz aufleuchten",
         "Schlüssel auf Position 2 drehen und halten bis Motor anspringt",
-        "Schlüssel loslassen \u2013 Motor läuft im Leerlauf",
+        "Schlüssel loslassen – Motor läuft im Leerlauf",
         "Öldruck- und Ladekontrollleuchte müssen erlöschen"
       ]
     },
