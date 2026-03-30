@@ -1,0 +1,60 @@
+{
+  "id": "heizung-scheer",
+  "category": "heizung",
+  "title": "Scheer-Heizung",
+  "subtitle": "Scheer-Dieselheizung bedienen und einstellen",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "scheer",
+    "heizung",
+    "diesel",
+    "dieselheizung",
+    "standheizung"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Scheer-Heizung einschalten"
+    },
+    {
+      "type": "text",
+      "content": "Die Scheer-Heizung ist eine Diesel-betriebene Heizung, die den Wohnbereich Ihres Fahrzeugs erwärmt. Sie arbeitet unabhängig vom Fahrzeugmotor."
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Öffnen Sie das Heizungsmenü auf dem Bedienfeld oder in der App",
+        "Wählen Sie \"Scheer-Heizung\"",
+        "Stellen Sie die gewünschte Temperatur ein",
+        "Aktivieren Sie die Heizung — der Brenner startet automatisch"
+      ]
+    },
+    {
+      "type": "info",
+      "content": "Die Scheer-Heizung benötigt einige Minuten für den Startvorgang. Sie hören zunächst die Zündung und dann den Brennerbetrieb."
+    },
+    {
+      "type": "heading",
+      "content": "Hinweise zum Betrieb"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Stellen Sie sicher, dass die Abgasöffnung frei und nicht blockiert ist",
+        "Die Heizung bezieht Diesel aus dem Fahrzeugtank — achten Sie auf ausreichenden Füllstand",
+        "Lassen Sie die Heizung nach dem Ausschalten nachlaufen, bis der Lüfter stoppt"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Blockieren Sie niemals die Abgas- oder Zuluftöffnungen der Scheer-Heizung! Es besteht Vergiftungsgefahr durch Abgase."
+    }
+  ]
+}
