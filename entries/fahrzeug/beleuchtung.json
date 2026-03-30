@@ -5,8 +5,20 @@
   "subtitle": "Scheinwerfer, Innenbeleuchtung und Markierungsleuchten",
   "validFrom": "2023-01",
   "validUntil": null,
-  "models": ["perfection", "i-vent"],
-  "tags": ["licht", "scheinwerfer", "fernlicht", "abblendlicht", "innenbeleuchtung", "LED"],
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "licht",
+    "scheinwerfer",
+    "fernlicht",
+    "abblendlicht",
+    "innenbeleuchtung",
+    "LED"
+  ],
   "sections": [
     {
       "type": "heading",
