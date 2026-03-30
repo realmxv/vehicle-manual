@@ -1,6 +1,6 @@
 {
   "name": "Fahrzeug-Bedienungsanleitung",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "lastUpdated": "2026-03-30",
   "baseImageUrl": "https://raw.githubusercontent.com/realmxv/vehicle-manual/main/images/",
   "categories": [
@@ -18,7 +18,7 @@
       "id": "wallout",
       "name": "Wallout / Slideout",
       "icon": "arrows.left.and.right",
-      "description": "Erker ausfahren, einfahren, Pflege, Enteisen, Sicherheitshinweise",
+      "description": "Ausfahren, Einfahren, Pflege, Enteisen, Sicherheitshinweise",
       "entries": [
         "wallout-ausfahren.json",
         "wallout-pflege.json",
@@ -58,8 +58,12 @@
       "id": "heizung",
       "name": "Heizung",
       "icon": "flame",
-      "description": "Warmwasser, Fussbodenheizung, Standheizung",
+      "description": "Frischwasser-Heizung, Scheer-Heizung, Webasto 9 kW, Elektroheizung, Warmwasser",
       "entries": [
+        "frischwasser-heizung.json",
+        "scheer-heizung.json",
+        "webasto-9kw.json",
+        "elektroheizung.json",
         "warmwasser.json"
       ]
     },
