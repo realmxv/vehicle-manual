@@ -1,0 +1,57 @@
+{
+  "id": "hydraulik-stuetzen",
+  "category": "hydraulik",
+  "title": "Stützensystem",
+  "subtitle": "Hydraulische Stützen ausfahren und nivellieren",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": ["perfection", "i-vent"],
+  "tags": ["stützen", "hydraulik", "nivellierung", "level", "ausfahren", "einfahren", "stabilisierung"],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Stützen ausfahren"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Fahrzeug steht auf festem Untergrund",
+        "Handbremse ist angezogen",
+        "Gangwahlhebel auf Neutral oder Park"
+      ]
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Bedienpanel einschalten",
+        "Menü 'Stützen' auswählen",
+        "Automatik-Nivellierung starten (AUTO-Taste)",
+        "System fährt alle 4 Stützen nacheinander aus",
+        "Fahrzeug wird automatisch nivelliert",
+        "Grüne LED = Nivellierung abgeschlossen"
+      ]
+    },
+    {
+      "type": "image",
+      "image": "images/hydraulik/stuetzen_panel.jpg",
+      "caption": "Stützen-Bedienpanel mit AUTO-Taste"
+    },
+    {
+      "type": "heading",
+      "content": "Stützen einfahren"
+    },
+    {
+      "type": "warning",
+      "content": "Vor dem Einfahren: Wallout muss vollständig eingefahren sein!"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Bedienpanel: Stützen-Menü öffnen",
+        "Taste 'ALLE EINFAHREN' drücken und halten",
+        "Warten bis alle Stützen vollständig eingezogen sind",
+        "Kontrollleuchte bestätigt: Stützen eingefahren"
+      ]
+    }
+  ]
+}
