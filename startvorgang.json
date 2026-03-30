@@ -30,14 +30,13 @@
       "content": [
         "Stützen sind vollständig eingefahren",
         "Gangwahlhebel steht auf Neutral (N)",
-        "Wallout / Slideout ist eingefahren",
-        "Handbremse ist angezogen",
-        "Batterie-Hauptschalter ist eingeschaltet"
+        "Feststellbremse ist angezogen",
+        "Wallout ist vollständig eingefahren"
       ]
     },
     {
       "type": "warning",
-      "content": "Niemals den Motor starten, solange die Stützen ausgefahren sind! Beschädigungsgefahr am Fahrwerk."
+      "content": "Starten Sie den Motor niemals, solange die Stützen ausgefahren sind oder der Gangwahlhebel nicht auf Neutral steht!"
     },
     {
       "type": "heading",
@@ -46,21 +45,21 @@
     {
       "type": "steps",
       "content": [
-        "Schlüssel in Zündschloss stecken und auf Position 1 drehen (Zündung ein)",
-        "Kontrollleuchten prüfen – alle Warnleuchten müssen kurz aufleuchten",
-        "Schlüssel auf Position 2 drehen und halten bis Motor anspringt",
-        "Schlüssel loslassen – Motor läuft im Leerlauf",
-        "Öldruck- und Ladekontrollleuchte müssen erlöschen"
+        "Stecken Sie den Schlüssel in das Zündschloss",
+        "Drehen Sie den Schlüssel auf Position 1 — die Kontrollleuchten leuchten auf",
+        "Prüfen Sie, ob alle relevanten Kontrollleuchten korrekt anzeigen",
+        "Drehen Sie den Schlüssel auf Position 2 (Startposition) und halten Sie ihn, bis der Motor anspringt",
+        "Lassen Sie den Schlüssel los, sobald der Motor läuft"
       ]
     },
     {
       "type": "image",
       "image": "images/fahrzeug/startvorgang_armaturenbrett.jpg",
-      "caption": "Armaturenbrett mit Kontrollleuchten beim Startvorgang"
+      "caption": "Armaturenbrett mit Kontrollleuchten"
     },
     {
       "type": "info",
-      "content": "Bei kaltem Motor: Mindestens 30 Sekunden im Leerlauf warmlaufen lassen, bevor losgefahren wird."
+      "content": "Lassen Sie den Motor bei kaltem Wetter ca. 30 Sekunden im Leerlauf warmlaufen, bevor Sie losfahren."
     }
   ]
 }
