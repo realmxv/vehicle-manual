@@ -5,8 +5,23 @@
   "subtitle": "Aufbaubatterien, Starterbatterie, Ladegerät",
   "validFrom": "2023-01",
   "validUntil": null,
-  "models": ["perfection", "i-vent"],
-  "tags": ["batterie", "strom", "lithium", "laden", "ladegerät", "solar", "wechselrichter", "230V", "12V"],
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "batterie",
+    "strom",
+    "lithium",
+    "laden",
+    "ladegerät",
+    "solar",
+    "wechselrichter",
+    "230V",
+    "12V"
+  ],
   "sections": [
     {
       "type": "heading",
