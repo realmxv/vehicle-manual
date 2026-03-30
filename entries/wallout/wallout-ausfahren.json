@@ -2,10 +2,10 @@
   "id": "wallout-ausfahren",
   "category": "wallout",
   "title": "Wallout ausfahren",
-  "subtitle": "Slideout / Erker ausfahren",
+  "subtitle": "WallOut bedienen",
   "validFrom": "2023-01",
   "validUntil": null,
-  "models": ["perfection"],
+  "models": ["perfection", "performance", "performanceS"],
   "tags": ["wallout", "slideout", "erker", "ausfahren", "erweitern"],
   "sections": [
     {
