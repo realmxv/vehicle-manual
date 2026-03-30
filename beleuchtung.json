@@ -1,0 +1,61 @@
+{
+  "id": "fahrzeug-beleuchtung",
+  "category": "fahrzeug",
+  "title": "Beleuchtung",
+  "subtitle": "Scheinwerfer, Innenbeleuchtung und Markierungsleuchten",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "licht",
+    "scheinwerfer",
+    "fernlicht",
+    "abblendlicht",
+    "innenbeleuchtung",
+    "LED"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Lichtschalter"
+    },
+    {
+      "type": "text",
+      "content": "Die Fahrzeugbeleuchtung steuern Sie über den Lichtschalter links neben dem Lenkrad. Drehen Sie den Schalter in die gewünschte Position."
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Position 0: Beleuchtung aus",
+        "Position 1: Standlicht",
+        "Position 2: Abblendlicht",
+        "Ziehen Sie den Schalter nach vorne für die Nebelschlussleuchte"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Fernlicht"
+    },
+    {
+      "type": "text",
+      "content": "Aktivieren Sie das Fernlicht durch Drücken des Blinkerhebels nach vorne. Ziehen Sie den Hebel zurück, um die Lichthupe zu betätigen."
+    },
+    {
+      "type": "warning",
+      "content": "Blenden Sie entgegenkommende Fahrzeuge nicht mit dem Fernlicht. Schalten Sie rechtzeitig auf Abblendlicht zurück!"
+    },
+    {
+      "type": "heading",
+      "content": "Innenbeleuchtung"
+    },
+    {
+      "type": "text",
+      "content": "Die Innenbeleuchtung des Wohnbereichs steuern Sie über das Bedienfeld oder die App. Dort können Sie einzelne Lichtkreise ein- und ausschalten sowie dimmen."
+    }
+  ]
+}
