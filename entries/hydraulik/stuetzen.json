@@ -5,8 +5,21 @@
   "subtitle": "Hydraulische Stützen ausfahren und nivellieren",
   "validFrom": "2023-01",
   "validUntil": null,
-  "models": ["perfection", "i-vent"],
-  "tags": ["stützen", "hydraulik", "nivellierung", "level", "ausfahren", "einfahren", "stabilisierung"],
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "stützen",
+    "hydraulik",
+    "nivellierung",
+    "level",
+    "ausfahren",
+    "einfahren",
+    "stabilisierung"
+  ],
   "sections": [
     {
       "type": "heading",
