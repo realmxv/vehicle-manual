@@ -1,0 +1,57 @@
+{
+  "id": "klima-klimaanlage",
+  "category": "klima",
+  "title": "Klimaanlage",
+  "subtitle": "Dachklimaanlage und Fahrerhaus-Klimaanlage bedienen",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "klima",
+    "klimaanlage",
+    "kühlung",
+    "dachklima",
+    "temperatur",
+    "lüftung"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Dachklimaanlage (Wohnbereich)"
+    },
+    {
+      "type": "text",
+      "content": "Die Dachklimaanlage kühlt den Wohnbereich Ihres Fahrzeugs. Sie benötigt Landstrom (230V) oder einen ausreichend dimensionierten Wechselrichter."
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Stellen Sie sicher, dass Landstrom angeschlossen ist oder der Wechselrichter läuft",
+        "Aktivieren Sie die Dachklimaanlage über das Bedienfeld oder die App",
+        "Stellen Sie die gewünschte Temperatur ein",
+        "Wählen Sie die Lüfterstufe"
+      ]
+    },
+    {
+      "type": "info",
+      "content": "Für optimale Kühlung schließen Sie alle Fenster und Dachluken. Die Klimaanlage arbeitet am effizientesten in einem geschlossenen Raum."
+    },
+    {
+      "type": "heading",
+      "content": "Fahrerhaus-Klimaanlage"
+    },
+    {
+      "type": "text",
+      "content": "Die Klimaanlage im Fahrerhaus bedienen Sie über die Regler am Armaturenbrett. Diese funktioniert nur bei laufendem Motor."
+    },
+    {
+      "type": "warning",
+      "content": "Betreiben Sie die Dachklimaanlage nicht ohne ausreichende Stromversorgung. Eine Überlastung des Wechselrichters kann zu Schäden führen."
+    }
+  ]
+}
