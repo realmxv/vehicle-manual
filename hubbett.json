@@ -1,0 +1,58 @@
+{
+  "id": "plateau-hubbett",
+  "category": "plateau",
+  "title": "Hubbett / Plateau",
+  "subtitle": "Hubbett absenken, anheben und sichern",
+  "validFrom": "2023-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "hubbett",
+    "plateau",
+    "bett",
+    "absenken",
+    "anheben",
+    "schlafen"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Hubbett absenken"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Stellen Sie sicher, dass sich unter dem Hubbett keine Gegenstände oder Personen befinden",
+        "Betätigen Sie den Schalter oder die App-Funktion zum Absenken",
+        "Halten Sie den Schalter gedrückt, bis das Hubbett die gewünschte Höhe erreicht hat",
+        "Prüfen Sie den sicheren Halt des Hubbetts"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Hubbett anheben"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Entfernen Sie Bettwäsche und Gegenstände, die herunterfallen könnten",
+        "Betätigen Sie den Schalter oder die App-Funktion zum Anheben",
+        "Halten Sie den Schalter gedrückt, bis das Hubbett vollständig oben ist",
+        "Vergewissern Sie sich, dass das Hubbett sicher arretiert ist"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Stellen Sie vor dem Absenken immer sicher, dass sich niemand unter dem Hubbett befindet. Das Hubbett senkt sich mit erheblichem Gewicht!"
+    },
+    {
+      "type": "info",
+      "content": "Achten Sie darauf, die maximale Belastung des Hubbetts nicht zu überschreiten. Beachten Sie die Angaben in den technischen Daten."
+    }
+  ]
+}
