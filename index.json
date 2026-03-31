@@ -1,7 +1,7 @@
 {
   "name": "Fahrzeug-Bedienungsanleitung",
-  "version": "1.2.0",
-  "lastUpdated": "2026-03-30",
+  "version": "1.3.0",
+  "lastUpdated": "2026-03-31",
   "baseImageUrl": "https://raw.githubusercontent.com/realmxv/vehicle-manual/main/images/",
   "categories": [
     {
@@ -30,9 +30,10 @@
       "id": "technik",
       "name": "Technik",
       "icon": "wrench",
-      "description": "Elektrik, Batterien, Solaranlage, Wechselrichter",
+      "description": "Elektrik, Batterien, Sicherungen, Solaranlage, Wechselrichter",
       "entries": [
-        "batterien.json"
+        "batterien.json",
+        "sicherungen.json"
       ]
     },
     {
