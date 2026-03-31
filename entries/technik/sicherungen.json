@@ -1,0 +1,143 @@
+a{
+    "id": "technik-sicherungen",
+    "category": "technik",
+    "title": "Sicherungen",
+    "subtitle": "Sicherungsbelegung Fahrzeug und Aufbau",
+    "validFrom": "2023-01",
+    "validUntil": null,
+    "models": [
+          "performance",
+          "performance-s",
+          "perfection",
+          "elfer-performance"
+    ],
+    "tags": [
+          "sicherung",
+          "fuse",
+          "elektrik",
+          "sicherungskasten",
+          "absicherung",
+          "ampere"
+    ],
+    "sections": [
+          {
+                  "type": "heading",
+                  "content": "Sicherungssystem"
+          },
+          {
+                  "type": "text",
+                  "content": "Ihr Fahrzeug verfuegt ueber mehrere Sicherungskaesten, die verschiedene elektrische Verbraucher im Fahrzeug- und Wohnbereich absichern. Nachfolgend finden Sie eine Uebersicht aller Sicherungen und deren Belegung."
+          },
+          {
+                  "type": "warning",
+                  "content": "Ersetzen Sie defekte Sicherungen ausschliesslich durch Sicherungen mit dem gleichen Nennwert (Ampere). Eine hoehere Absicherung kann zu Kabelbrand fuehren!"
+          },
+          {
+                  "type": "heading",
+                  "content": "Sicherungskasten Fahrerhaus (MAN TGE Basis)"
+          },
+          {
+                  "type": "text",
+                  "content": "Der Sicherungskasten des Basisfahrzeugs befindet sich links unter dem Lenkrad hinter einer Abdeckung."
+          },
+          {
+                  "type": "table",
+                  "headers": ["Nr.", "Ampere", "Farbe", "Verbraucher"],
+                  "rows": [
+                            ["F1", "10A", "Rot", "Standlicht links"],
+                            ["F2", "10A", "Rot", "Standlicht rechts"],
+                            ["F3", "15A", "Blau", "Abblendlicht links"],
+                            ["F4", "15A", "Blau", "Abblendlicht rechts"],
+                            ["F5", "10A", "Rot", "Fernlicht links"],
+                            ["F6", "10A", "Rot", "Fernlicht rechts"],
+                            ["F7", "10A", "Rot", "Nebelscheinwerfer"],
+                            ["F8", "15A", "Blau", "Scheibenwischer vorne"],
+                            ["F9", "20A", "Gelb", "Scheibenheizung"],
+                            ["F10", "30A", "Gruen", "Geblaesemotor Heizung/Klima"],
+                            ["F11", "15A", "Blau", "Hupe"],
+                            ["F12", "10A", "Rot", "Blinker / Warnblinker"],
+                            ["F13", "20A", "Gelb", "Zigarettenanzuender / 12V-Dose Fahrerhaus"],
+                            ["F14", "10A", "Rot", "Kombiinstrument / Bordcomputer"],
+                            ["F15", "10A", "Rot", "Radio / Infotainment"],
+                            ["F16", "5A", "Hellbraun", "Innenbeleuchtung Fahrerhaus"],
+                            ["F17", "15A", "Blau", "Zentralverriegelung"],
+                            ["F18", "10A", "Rot", "Rueckfahrscheinwerfer"],
+                            ["F19", "30A", "Gruen", "ABS / ESP Steuergeraet"],
+                            ["F20", "5A", "Hellbraun", "Airbag-Steuergeraet"]
+                  ]
+          },
+          {
+                  "type": "heading",
+                  "content": "Sicherungskasten Aufbau (Wohnbereich) - 12V"
+          },
+          {
+                  "type": "text",
+                  "content": "Der Sicherungskasten fuer den Wohnbereich befindet sich im Technikschrank. Alle 12V-Verbraucher des Aufbaus werden hier abgesichert."
+          },
+          {
+                  "type": "table",
+                  "headers": ["Nr.", "Ampere", "Farbe", "Verbraucher"],
+                  "rows": [
+                            ["A1", "15A", "Blau", "Aufbau-Beleuchtung LED gesamt"],
+                            ["A2", "10A", "Rot", "Wasserpumpe Frischwasser"],
+                            ["A3", "15A", "Blau", "Kuehlschrank 12V Betrieb"],
+                            ["A4", "20A", "Gelb", "Wallout-Steuerung / Antriebsmotor"],
+                            ["A5", "15A", "Blau", "Wallout-Heizung"],
+                            ["A6", "20A", "Gelb", "Hubbett / Plateau Antrieb"],
+                            ["A7", "10A", "Rot", "Stuetzen-Steuerung (Hydraulik)"],
+                            ["A8", "30A", "Gruen", "Stuetzen-Hydraulikpumpe"],
+                            ["A9", "10A", "Rot", "Bedientableau / Touchpanel"],
+                            ["A10", "15A", "Blau", "TV / SAT-Anlage / Fernsehausschub"],
+                            ["A11", "10A", "Rot", "Alde Heizung Steuerung"],
+                            ["A12", "10A", "Rot", "Scheer Dieselheizung Steuerung"],
+                            ["A13", "15A", "Blau", "Webasto 9kW Steuerung"],
+                            ["A14", "10A", "Rot", "Warmwasserboiler Steuerung"],
+                            ["A15", "20A", "Gelb", "12V-Steckdosen Wohnbereich"],
+                            ["A16", "15A", "Blau", "USB-Ladedosen gesamt"],
+                            ["A17", "10A", "Rot", "Dachklimaanlage Steuerung"],
+                            ["A18", "15A", "Blau", "Aussenbeleuchtung / Markisenbeleuchtung"],
+                            ["A19", "10A", "Rot", "Rauch- / Gasmelder / CO-Melder"],
+                            ["A20", "5A", "Hellbraun", "WLAN-Router / iNTRANET"]
+                  ]
+          },
+          {
+                  "type": "heading",
+                  "content": "Sicherungskasten Aufbau - 230V (Wechselstrom)"
+          },
+          {
+                  "type": "text",
+                  "content": "Die 230V-Absicherung erfolgt ueber einen separaten Sicherungsautomaten im Elektroschrank. Diese Sicherungen schuetzen alle Verbraucher, die ueber Landstrom oder den Wechselrichter versorgt werden."
+          },
+          {
+                  "type": "table",
+                  "headers": ["Nr.", "Ampere", "Typ", "Verbraucher"],
+                  "rows": [
+                            ["B1", "16A", "Leitungsschutzschalter", "Steckdosen Wohnbereich"],
+                            ["B2", "16A", "Leitungsschutzschalter", "Kueche (Kaffeemaschine, Mikrowelle)"],
+                            ["B3", "16A", "Leitungsschutzschalter", "Klimaanlage 230V"],
+                            ["B4", "16A", "Leitungsschutzschalter", "Elektroheizung 230V"],
+                            ["B5", "10A", "Leitungsschutzschalter", "Batterieladegeraet"],
+                            ["B6", "16A", "Leitungsschutzschalter", "Waschmaschine / Trockner"],
+                            ["B7", "30A", "FI-Schutzschalter", "Fehlerstrom-Schutz gesamt (30mA)"]
+                  ]
+          },
+          {
+                  "type": "heading",
+                  "content": "Sicherungen pruefen und wechseln"
+          },
+          {
+                  "type": "checklist",
+                  "content": [
+                            "Schalten Sie den betroffenen Stromkreis vorher aus",
+                            "Ziehen Sie die defekte Sicherung mit der beiliegenden Sicherungszange heraus",
+                            "Pruefen Sie die Sicherung optisch — ein durchgebrannter Draht zeigt einen Defekt an",
+                            "Setzen Sie eine neue Sicherung mit identischem Ampere-Wert ein",
+                            "Schalten Sie den Stromkreis wieder ein und pruefen Sie die Funktion"
+                  ]
+          },
+          {
+                  "type": "info",
+                  "content": "Ersatzsicherungen finden Sie im Sicherungskasten des Fahrerhauses (Klappfach) sowie im Technikschrank des Aufbaus. Wenn eine Sicherung wiederholt durchbrennt, liegt moeglicherweise ein Defekt im Stromkreis vor — wenden Sie sich an den Volkner Service."
+          }
+    ]
+}
