@@ -112,6 +112,15 @@
       "entries": [
         "hubbett.json"
       ]
+    },
+    {
+      "id": "sonstiges",
+      "name": "Sonstiges",
+      "icon": "settings",
+      "description": "Zusatzausstattung und Zubehör für alle Fahrzeuge (Somfy, Miele, etc.)",
+      "entries": [
+        "somfy-tilt-lift-25-rts.json"
+      ]
     }
   ],
   "models": [

@@ -1,0 +1,477 @@
+{
+  "id": "sonstiges-somfy-tilt-lift-25-rts",
+  "category": "sonstiges",
+  "title": "Somfy Tilt & Lift 25 RTS",
+  "subtitle": "Motorantrieb für Raffrollos, Jalousien und Faltrollos",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "somfy",
+    "jalousie",
+    "raffrollo",
+    "rollo",
+    "antrieb",
+    "RTS",
+    "funk",
+    "motor",
+    "tilt",
+    "lift"
+  ],
+  "pdfLink": "https://raw.githubusercontent.com/realmxv/vehicle-manual/main/docs/sonstiges/somfy-tilt-lift-25-rts-de.pdf",
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Produktübersicht"
+    },
+    {
+      "type": "text",
+      "content": "Der Somfy Tilt & Lift 25 RTS ist ein kompakter Motorantrieb für Raffrollos, Lamellenjalousien, Faltrollos und Wabenplissees. Er wird über eine RTS-Funkbedieneinheit gesteuert und ermöglicht die motorisierte Auf-/Ab-Bewegung sowie die Lamellenwendung bei Jalousien."
+    },
+    {
+      "type": "heading",
+      "content": "Sicherheitshinweise"
+    },
+    {
+      "type": "warning",
+      "content": "Die Installation muss von einer fachlich qualifizierten Person (Elektrofachkraft nach DIN VDE 1000-10) für Antriebe und Automatisierungen im Haustechnikbereich durchgeführt werden."
+    },
+    {
+      "type": "warning",
+      "content": "Lassen Sie den Antrieb niemals fallen, bewahren Sie ihn vor Erschütterungen, bohren Sie ihn nicht an und tauchen Sie ihn nicht in Flüssigkeiten."
+    },
+    {
+      "type": "text",
+      "content": "Installieren Sie für jeden Antrieb eine eigene Bedieneinheit."
+    },
+    {
+      "type": "heading",
+      "content": "Installation"
+    },
+    {
+      "type": "subheading",
+      "content": "Montage – Vorbereitung des Antriebs"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Schneiden Sie die Welle auf die gewünschte Länge zu.",
+        "Bringen Sie die Kopfschienen- und die Wellen-Adapter am Antrieb an."
+      ]
+    },
+    {
+      "type": "subheading",
+      "content": "Einbau des Antriebs in die Kopfschiene"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Schieben Sie den Antrieb in die Kopfschiene.",
+        "Achten Sie darauf, dass das Stromversorgungskabel beim Einschieben nicht an den Kanten der Kopfschiene durchtrennt wird.",
+        "Sorgen Sie dafür, dass die Welle an den Wellenadaptern des Antriebs ansteht.",
+        "Für optimalen Funkempfang sollte die Antenne möglichst gerade und außerhalb der Kopfschiene geführt werden."
+      ]
+    },
+    {
+      "type": "subheading",
+      "content": "Blockieren von Schaft und Antrieb"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Die Kanten der Kopfschiene mit einem geeigneten Werkzeug so quetschen, dass der Motor sich nicht mehr bewegen kann.",
+        "Schieben Sie die Welle zu blockieren, Anschlagringe gegen das CTS und schrauben Sie diese fest."
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Verkabelung"
+    },
+    {
+      "type": "warning",
+      "content": "Alle Kabel, die in Kontakt mit einer metallischen Wandung geraten könnten, müssen mit einer Hülse oder Ummantelung geschützt und isoliert werden."
+    },
+    {
+      "type": "warning",
+      "content": "Bringen Sie die Kabel so an, dass sie nicht in Kontakt zu beweglichen Teilen geraten können."
+    },
+    {
+      "type": "warning",
+      "content": "Das Kabel des Antriebs lässt sich nicht abziehen. Wenn es beschädigt wurde, muss der Antrieb zum Kundendienst gebracht werden."
+    },
+    {
+      "type": "text",
+      "content": "Zur Gewährleistung der elektrischen Sicherheit muss dieser Antrieb der Klasse III stets mit Sicherheitskleinspannung (SELV) betrieben werden. Achten Sie darauf, dass das Netzkabel des Antriebs zugänglich bleibt. Stecken Sie die Batterie oder das Netzteil nicht aus, während der Antrieb arbeitet."
+    },
+    {
+      "type": "text",
+      "content": "Stecken Sie das Antriebsversorgungskabel an der Batterie ein."
+    },
+    {
+      "type": "heading",
+      "content": "Inbetriebnahme"
+    },
+    {
+      "type": "subheading",
+      "content": "Einlernen einer RTS-Bedieneinheit"
+    },
+    {
+      "type": "text",
+      "content": "Drücken Sie gleichzeitig die AUF- und AB-Taste der RTS-Bedieneinheit: Der Behang bewegt sich kurz auf und ab, die Bedieneinheit ist jetzt im Antrieb vorprogrammiert."
+    },
+    {
+      "type": "subheading",
+      "content": "Prüfen der Drehrichtung"
+    },
+    {
+      "type": "text",
+      "content": "Drücken Sie auf die AUF-Taste der RTS-Bedieneinheit: Wenn der Behang nach oben fährt (a), ist die Drehrichtung korrekt – fahren Sie mit der Endlageneinstellung fort. Wenn der Behang nach unten fährt (b), ist die Drehrichtung vertauscht: Drücken Sie die my-Taste der RT-Bedieneinheit, bis der Antrieb mit einer kurzen Auf-Abbewegung bestätigt. Die Drehrichtung ist geändert."
+    },
+    {
+      "type": "subheading",
+      "content": "Endlageneinstellung"
+    },
+    {
+      "type": "text",
+      "content": "Die Endlagen können in beliebiger Reihenfolge bestimmt werden."
+    },
+    {
+      "type": "warning",
+      "content": "Die obere Endlage nicht auf eine Position einstellen, in der Stoff oder Lamellen vollständig gegen die Kopfschiene gedrückt werden. Dies kann den Behang und/oder Antrieb langfristig beschädigen."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Drücken Sie die AB-Taste, um den Antrieb in die gewünschte untere Endlage zu fahren.",
+        "Drücken Sie gleichzeitig die beiden Tasten my und AUF, bis der Behang sich zu bewegen beginnt. Die untere Endlage ist damit eingestellt.",
+        "Drücken Sie die my-Taste, wenn der Behang die gewünschte obere Endlage erreicht hat. Führen Sie gegebenenfalls mit den beiden Tasten AUF und AB eine Feinabstimmung der Endlage durch.",
+        "Drücken Sie gleichzeitig die beiden Tasten my und AB, bis der Behang sich zu bewegen beginnt. Die obere Endlage ist damit eingestellt.",
+        "Um die beiden Endlagen zu bestätigen, drücken Sie die my-Taste, bis der Antrieb mit einer Auf- und Abbewegung bestätigt. Die beiden Endlagen sind gespeichert."
+      ]
+    },
+    {
+      "type": "subheading",
+      "content": "Speichern der RTS-Bedieneinheit"
+    },
+    {
+      "type": "text",
+      "content": "Der Antrieb ist im Programmiermodus: Drücken Sie kurz auf die PROG-Taste der einzulernenden RTS-Bedieneinheit. Der Behang führt eine kurze Auf- und Abbewegung aus: Die RTS-Bedieneinheit ist jetzt am Antrieb eingelernt."
+    },
+    {
+      "type": "text",
+      "content": "Wenn der Antrieb nicht mehr im Programmiermodus ist, wiederholen Sie bitte den Schritt Einlernen einer RTS-Bedieneinheit vor der Ausführung des Schrittes Speichern der RTS-Bedieneinheit."
+    },
+    {
+      "type": "heading",
+      "content": "Tipps und Empfehlungen für die Installation"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Fehler",
+        "Mögliche Ursachen",
+        "Lösungen"
+      ],
+      "rows": [
+        [
+          "Der Behang funktioniert nicht",
+          "Es können Funkstörungen vorliegen",
+          "Stecken Sie das Stromversorgungskabel des Antriebs aus und verbinden Sie die Batterie wieder mit dem Antrieb"
+        ],
+        [
+          "Der Behang funktioniert nicht",
+          "Batterien wurden falsch herum eingesetzt",
+          "Vergewissern Sie sich, dass alle Batterien richtig herum eingesetzt sind"
+        ],
+        [
+          "Der Behang funktioniert nicht",
+          "Batterien im Batterierohr sind undicht",
+          "Die Batterien durch neue Batterien mit identischen Eigenschaften ersetzen"
+        ],
+        [
+          "Der Behang funktioniert nicht",
+          "Die Batterien sind schwach",
+          "Überprüfen Sie die Batteriespannung und tauschen Sie ggf. die Batterie aus"
+        ],
+        [
+          "Der Behang funktioniert nicht",
+          "Die Batterie der Bedieneinheit ist schwach",
+          "Überprüfen Sie die Batteriespannung und tauschen Sie ggf. die Batterien aus"
+        ],
+        [
+          "Der Behang funktioniert nicht",
+          "Die Bedieneinheit ist nicht kompatibel",
+          "Überprüfen Sie die Kompatibilität und tauschen Sie ggf. die Bedieneinheit aus"
+        ],
+        [
+          "Der Behang funktioniert nicht",
+          "Bedieneinheit ist nicht eingelernt",
+          "Verwenden Sie eine eingelernte Bedieneinheit oder lernen Sie die Bedieneinheit ein"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Bedienung und Wartung"
+    },
+    {
+      "type": "text",
+      "content": "Für diesen Antrieb sind keine Wartungsarbeiten erforderlich."
+    },
+    {
+      "type": "subheading",
+      "content": "Auswahl der Betriebsart: Rollo oder Jalousie"
+    },
+    {
+      "type": "text",
+      "content": "Die Betriebsart kann erst gewählt werden, nachdem der Schritt Speichern der RTS-Bedieneinheit durchgeführt wurde. Der Antrieb ist auf 2 Betriebsarten ausgelegt: Betriebsart Rollo oder Jalousie. Standardmäßig ist die Betriebsart Jalousie eingestellt."
+    },
+    {
+      "type": "text",
+      "content": "Zum Wechsel der Betriebsart: Fahren Sie den Behang von den Endlagen weg. Drücken Sie gleichzeitig die beiden Tasten AUF und AB, bis der Behang eine kurze Auf- und Abbewegung ausführt. Drücken Sie gleichzeitig die beiden Tasten my und AB, bis der Behang eine kurze Auf- und Abbewegung ausführt, um von der Betriebsart Rollo in die Betriebsart Jalousie zu wechseln."
+    },
+    {
+      "type": "subheading",
+      "content": "AUF, AB, my: In der Betriebsart Rollo"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Durch kurzen Druck auf die AUF- oder AB-Taste können Sie den Behang direkt von einer Endlage in die andere bewegen.",
+        "Drücken Sie die Taste my, um den Behang anzuhalten.",
+        "Wenn eine my-Position gespeichert ist, fährt der Behang in diese my-Position, wenn Sie die my-Taste kurz drücken."
+      ]
+    },
+    {
+      "type": "subheading",
+      "content": "AUF, AB, my: In der Betriebsart Jalousie"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Durch kurzen Druck (kürzer als 0,5 s) auf die AUF- oder AB-Taste können Sie den Behang direkt von einer Endlage in die andere bewegen.",
+        "Drücken Sie die Taste my, um den Behang anzuhalten.",
+        "Wenn eine my-Position gespeichert ist, fährt der Behang in diese my-Position, wenn Sie die my-Taste kurz drücken. Der Behang fährt zuerst in die untere Endlage und anschließend in die my-Position.",
+        "Um die Lamellen zu wenden, halten Sie die AUF- oder AB-Taste gedrückt oder verwenden Sie das Scroll-Rad der Bedieneinheit."
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Weitere Einstellungen"
+    },
+    {
+      "type": "subheading",
+      "content": "Speichern oder Ändern der Lieblingsposition (my)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Fahren Sie den Behang in die gewünschte Lieblingsposition (my).",
+        "Drücken Sie die my-Taste, bis sich der Behang auf und ab bewegt: Die gewünschte neue Lieblingsposition (my-Position) ist jetzt gespeichert.",
+        "Zum Speichern der Lieblings-Lamellenposition müssen Sie in der Betriebsart Jalousie den Behang zuerst mit der AB-Taste bis zum Anschlag drehen und anschließend mit der AUF-Taste in die gewünschte Position drehen."
+      ]
+    },
+    {
+      "type": "subheading",
+      "content": "Löschen der Lieblingsposition (my)"
+    },
+    {
+      "type": "text",
+      "content": "Fahren Sie den Behang mit der my-Taste in die gespeicherte my-Position, drücken und halten Sie die my-Taste, bis das Behang mit einer kurzen Auf- und Abbewegung bestätigt."
+    },
+    {
+      "type": "subheading",
+      "content": "Einstellen der Lamellenwende"
+    },
+    {
+      "type": "text",
+      "content": "Zum Senken der Wendegeschwindigkeit: Drücken Sie gleichzeitig die beiden Tasten my und AB, bis der Behang eine kurze Auf- und Abbewegung ausführt. Wiederholen Sie den Vorgang, wenn nötig. Zum Erhöhen der Wendegeschwindigkeit: Drücken Sie gleichzeitig die beiden Tasten my und AUF, bis der Behang eine kurze Auf- und Abbewegung ausführt."
+    },
+    {
+      "type": "subheading",
+      "content": "Ändern der Drehrichtung des Antriebs"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Fahren Sie den Behang von den Endlagen weg.",
+        "Halten Sie gleichzeitig die AUF- und AB-Taste gedrückt, bis das motorisierte Produkt eine Auf- und Abbewegung ausführt.",
+        "Halten Sie die Taste my gedrückt, bis der Behang eine kurze Auf- und Abbewegung ausführt. Damit wird angezeigt, dass die Drehrichtung geändert wurde.",
+        "Drücken Sie die AUF-Taste, um die neue Drehrichtung zu überprüfen."
+      ]
+    },
+    {
+      "type": "subheading",
+      "content": "Ändern der Drehrichtung des Scroll-Rades"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Fahren Sie den Behang von den Endlagen weg.",
+        "Halten Sie gleichzeitig die AUF- und AB-Taste gedrückt, bis das motorisierte Produkt eine Auf- und Abbewegung ausführt.",
+        "Drücken Sie gleichzeitig die Tasten AUF, my und AB, bis der Behang eine kurze Auf- und Abbewegung ausführt, um die Drehrichtung des Scroll-Rades zu ändern."
+      ]
+    },
+    {
+      "type": "subheading",
+      "content": "Einstellen der Geschwindigkeit"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Fahren Sie den Behang von den Endlagen weg. Halten Sie gleichzeitig die AUF-, my- und AB-Taste gedrückt, bis der Behang eine kurze Auf- und Abbewegung ausführt. Der Behang bewegt sich in 10-Sekunden-Zyklen automatisch nach oben und unten, um die Aktivierung des Modus zur Einstellung der Geschwindigkeit zu bestätigen.",
+        "Drücken und halten Sie die AUF-Taste, bis der Behang sich kurz auf und ab bewegt, um die Geschwindigkeit zu erhöhen.",
+        "Drücken Sie auf die AB-Taste und halten diese, bis der Behang sich kurz auf und ab bewegt, um die Geschwindigkeit zu reduzieren.",
+        "Drücken Sie auf die my-Taste und halten diese, bis der Behang sich kurz auf und ab bewegt, um die neue Geschwindigkeit zu bestätigen."
+      ]
+    },
+    {
+      "type": "subheading",
+      "content": "Nachjustieren der Endlagen"
+    },
+    {
+      "type": "text",
+      "content": "Obere Endlage: Drücken Sie die Taste AUF, um den Behang in die zu korrigierende Endlage zu bringen. Drücken Sie gleichzeitig die beiden Tasten AUF und AB, bis der Behang eine kurze Auf- und Abbewegung ausführt. Drücken Sie eine der Tasten AUF oder AB, um den Behang in die gewünschte neue Endlage zu bringen. Drücken Sie die my-Taste zur Bestätigung."
+    },
+    {
+      "type": "text",
+      "content": "Untere Endlage: Drücken Sie die Taste AB, um den Behang in die zu korrigierende Endlage zu bringen. Drücken Sie gleichzeitig die beiden Tasten AUF und AB, bis der Behang eine kurze Auf- und Abbewegung ausführt. Drücken Sie eine der Tasten AUF oder AB, um den Behang in die gewünschte neue Endlage zu bringen. Drücken Sie die my-Taste zur Bestätigung."
+    },
+    {
+      "type": "subheading",
+      "content": "Hinzufügen/Löschen einer RTS-Bedieneinheit"
+    },
+    {
+      "type": "text",
+      "content": "Benutzen Sie eine im Antrieb eingelernte RTS-Bedieneinheit (A). Drücken Sie die PROG-Taste der eingelernten RTS-Bedieneinheit (A) oder die PROG-Taste des Antriebs, bis der Behang mit einer kurzen Auf- und Abbewegung bestätigt. Drücken Sie kurz auf die PROG-Taste der RTS-Bedieneinheit (B), die hinzugefügt oder gelöscht werden soll: Der Behang bewegt sich kurz auf und ab, die Bedieneinheit ist jetzt im Antrieb programmiert bzw. gelöscht."
+    },
+    {
+      "type": "subheading",
+      "content": "Löschen der Bedieneinheit aus dem Antriebsspeicher"
+    },
+    {
+      "type": "text",
+      "content": "Drücken Sie, um alle gespeicherten Bedieneinheiten zu löschen, die PROG-Taste des Antriebs, bis der Behang mit zwei kurzen Auf- und Abbewegungen bestätigt. Alle Bedieneinheiten sind gelöscht."
+    },
+    {
+      "type": "subheading",
+      "content": "Löschen des Antriebsspeichers"
+    },
+    {
+      "type": "text",
+      "content": "Sie können den Antrieb zurücksetzen, indem Sie die PROG-Taste am Antriebskopf gedrückt halten, bis der Behang mit drei kurzen Auf- und Abbewegungen bestätigt. Alle Einstellungen sind gelöscht."
+    },
+    {
+      "type": "heading",
+      "content": "Tipps und Empfehlungen für die Bedienung"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Fehler",
+        "Mögliche Ursachen",
+        "Lösungen"
+      ],
+      "rows": [
+        [
+          "Der Behang funktioniert nicht",
+          "Batterien wurden falsch herum eingesetzt",
+          "Vergewissern Sie sich, dass alle Batterien richtig herum eingesetzt sind"
+        ],
+        [
+          "Der Behang funktioniert nicht",
+          "Batterien im Batterierohr sind undicht",
+          "Die Batterien durch neue Batterien mit identischen Eigenschaften ersetzen"
+        ],
+        [
+          "Der Behang funktioniert nicht",
+          "Die Batterien sind schwach",
+          "Überprüfen Sie die Batteriespannung und tauschen Sie ggf. die Batterie aus"
+        ],
+        [
+          "Der Behang funktioniert nicht",
+          "Die Batterie der Bedieneinheit ist schwach",
+          "Überprüfen Sie die Batteriespannung und tauschen Sie ggf. die Batterien aus"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Wenn das Produkt weiterhin nicht funktioniert, wenden Sie sich bitte an einen Fachmann für Gebäudeautomation."
+    },
+    {
+      "type": "heading",
+      "content": "Technische Daten"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Eigenschaft",
+        "Wert"
+      ],
+      "rows": [
+        [
+          "Spannungsversorgung",
+          "12 VDC SELV"
+        ],
+        [
+          "Frequenzband und maximale Sendeleistung",
+          "433,42 MHz"
+        ],
+        [
+          "Drehmoment",
+          "0,8 Nm"
+        ],
+        [
+          "Geschwindigkeit",
+          "30 U/min"
+        ],
+        [
+          "Schutzklasse",
+          "III"
+        ],
+        [
+          "Mindestabstand zwischen den beiden Endlagen",
+          "1/8 Umdrehung"
+        ],
+        [
+          "Maximaler Abstand zwischen den beiden Endlagen",
+          "100 Umdrehungen"
+        ],
+        [
+          "Maximale Betriebsdauer",
+          "6 Minuten"
+        ],
+        [
+          "Betriebstemperatur",
+          "0 °C bis +60 °C"
+        ],
+        [
+          "Schutzart",
+          "IP 20 (Nur für den Betrieb in geschlossenen Räumen)"
+        ],
+        [
+          "Maximale Anzahl speicherbarer Bedieneinheiten",
+          "12"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Bitte wenden Sie sich an Ihren Ansprechpartner bei Somfy, um weitere Informationen über die technischen Daten des Antriebs zu erhalten. Website: www.somfy.com"
+    },
+    {
+      "type": "heading",
+      "content": "Originalanleitung (PDF)"
+    },
+    {
+      "type": "text",
+      "content": "Die vollständige Originalanleitung mit Abbildungen ist als PDF-Datei verfügbar."
+    }
+  ]
+}

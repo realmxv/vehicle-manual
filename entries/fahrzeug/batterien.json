@@ -69,12 +69,10 @@
     },
     {
       "type": "image",
-      "image": "images/fahrzeug/volvo-b13r/page170_img1.jpeg",
       "caption": "Batteriekasten"
     },
     {
       "type": "image",
-      "image": "images/fahrzeug/volvo-b13r/page170_img2.jpeg",
       "caption": "Externer Stromanschluss"
     }
   ]
