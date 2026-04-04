@@ -13,6 +13,47 @@
         "startvorgang.json",
         "beleuchtung.json"
       ]
+  "name": "Fahrzeug-Bedienungsanleitung",
+  "version": "1.3.0",
+  "lastUpdated": "2026-03-31",
+  "baseImageUrl": "https://raw.githubusercontent.com/realmxv/vehicle-manual/main/images/",
+  "categories": [
+    {
+      "id": "fahrzeug",
+      "name": "Fahrzeug",
+      "icon": "car",
+      "description": "Motor, Startvorgang, Fahrbetrieb, Bremsen, Beleuchtung",
+      "entries": [
+        "startvorgang.json",
+        "beleuchtung.json",
+        "einfuehrung.json",
+        "starten-fahren.json",
+        "kollisionswarnung.json",
+        "fahrassistenz.json",
+        "fahrerumgebung.json",
+        "grundbedienung.json",
+        "tempomat.json",
+        "retarder.json",
+        "instrumente.json",
+        "gangwahlhebel.json",
+        "tuerbremse-absenkung.json",
+        "infotainment.json",
+        "sicherheit-notfall.json",
+        "taegliche-inspektion.json",
+        "tanken.json",
+        "reinigung.json",
+        "raeder-reifen.json",
+        "elektrik.json",
+        "langzeitparken.json",
+        "softwareupdate.json",
+        "kraftstoff.json",
+        "adblue.json",
+        "abgasnachbehandlung.json",
+        "technische-daten.json",
+        "bremssysteme.json",
+        "getriebe.json",
+        "batterien.json"
+      ]
     },
     {
       "id": "wallout",
@@ -109,4 +150,4 @@
       "productionStart": "2023-01"
     }
   ]
-}
+    }
