@@ -1,0 +1,45 @@
+{
+  "id": "fahrzeug-b13r-retarder",
+  "category": "fahrzeug",
+  "title": "Retarder",
+  "subtitle": "Dauerbremse und Retardersteuerung",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "retarder",
+    "dauerbremse",
+    "motorbremse",
+    "bremse",
+    "verzögerung"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Retardersteuerung"
+    },
+    {
+      "type": "text",
+      "content": "Der Retarder ist eine verschleißfreie Dauerbremse, die die Radbremsen entlastet. Er wird über den Retarderhebel am Lenkrad oder automatisch über das Bremspedal gesteuert."
+    },
+    {
+      "type": "heading",
+      "content": "Retarderstufen"
+    },
+    {
+      "type": "text",
+      "content": "Der Retarder verfügt über mehrere Bremsstufen. Je weiter der Hebel nach unten gedrückt wird, desto stärker ist die Bremswirkung."
+    },
+    {
+      "type": "info",
+      "content": "Der Retarder wirkt nur auf die Antriebsachse. Bei nassen oder glatten Straßen kann dies zu Radschlupf führen. Verwenden Sie in diesem Fall die Radbremsen."
+    },
+    {
+      "type": "warning",
+      "content": "Verwenden Sie den Retarder nicht bei laufendem ABS-Eingriff. Das ABS deaktiviert den Retarder automatisch, um die Fahrstabilität zu gewährleisten."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "fahrzeug-b13r-einfuehrung",
+  "category": "fahrzeug",
+  "title": "Einführung Volvo B13R",
+  "subtitle": "Volvo Action Service und allgemeine Hinweise",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "einführung",
+    "volvo",
+    "b13r",
+    "VAS",
+    "volvo action service",
+    "fahrgestell",
+    "bus"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Volvo Action Service (VAS)"
+    },
+    {
+      "type": "text",
+      "content": "Volvo Action Service (VAS) ist ein Pannenhilfedienst, der rund um die Uhr, 365 Tage im Jahr verfügbar ist. VAS hilft bei Pannen und sorgt dafür, dass Ihr Bus schnellstmöglich wieder einsatzbereit ist."
+    },
+    {
+      "type": "info",
+      "content": "Halten Sie Ihre Fahrzeug-Identifizierungsnummer (FIN) bereit, wenn Sie VAS kontaktieren."
+    },
+    {
+      "type": "heading",
+      "content": "Über dieses Handbuch"
+    },
+    {
+      "type": "text",
+      "content": "Dieses Fahrerhandbuch beschreibt die Bedienung und Wartung des Volvo B13R Fahrgestells. Die Anweisungen gelten für die Standardausstattung. Je nach kundenspezifischen Anpassungen können Abweichungen auftreten."
+    },
+    {
+      "type": "warning",
+      "content": "Lesen Sie dieses Handbuch sorgfältig durch, bevor Sie das Fahrzeug in Betrieb nehmen. Die Nichtbeachtung der Anweisungen kann zu Schäden am Fahrzeug oder zu Verletzungen führen."
+    }
+  ]
+}

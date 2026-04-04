@@ -1,0 +1,63 @@
+{
+  "id": "fahrzeug-b13r-adblue",
+  "category": "fahrzeug",
+  "title": "AdBlue",
+  "subtitle": "Handhabung, Nachfüllen und Sicherheitshinweise",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "adblue",
+    "harnstoff",
+    "DEF",
+    "SCR",
+    "abgasreinigung",
+    "emission",
+    "nachfüllen"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Was ist AdBlue?"
+    },
+    {
+      "type": "text",
+      "content": "AdBlue (Harnstofflösung) ist eine farblose Flüssigkeit aus Harnstoff und demineralisiertem Wasser mit einem Harnstoffanteil von 32,5%. Sie entspricht der ISO-Norm 22241-1 und wird für die selektive katalytische Reduktion (SCR) benötigt."
+    },
+    {
+      "type": "heading",
+      "content": "Nachfüllen und Verbrauch"
+    },
+    {
+      "type": "text",
+      "content": "Prüfen Sie beim Tanken immer auch den AdBlue-Füllstand. Der Verbrauch beträgt normalerweise etwa 9% bis 11% des Dieselverbrauchs."
+    },
+    {
+      "type": "heading",
+      "content": "Handhabung und Verschütten"
+    },
+    {
+      "type": "text",
+      "content": "AdBlue ist nicht gefährlich, beim Umgang damit ist dennoch Vorsicht geboten. Wenn AdBlue versehentlich auf den Bus gelangt, spülen Sie es mit Wasser ab und wischen dann mit Papier oder einem Tuch nach."
+    },
+    {
+      "type": "warning",
+      "content": "AdBlue ist sehr korrosiv und kann Anschlüsse beschädigen. Wenn AdBlue in Anschlüsse und Kabel gelangt, müssen diese ausgetauscht werden. Eine Reinigung reicht nicht aus."
+    },
+    {
+      "type": "heading",
+      "content": "AdBlue gefriert"
+    },
+    {
+      "type": "text",
+      "content": "AdBlue gefriert bei etwa -11 °C. Dies ist in der Regel kein Problem, da das SCR-System beheizt ist. Der Bus kann trotzdem gestartet und wie üblich gefahren werden."
+    },
+    {
+      "type": "info",
+      "content": "Wer ohne AdBlue fährt oder versucht, das Abgasreinigungssystem zu manipulieren, muss mit Bußgeldern rechnen."
+    }
+  ]
+}

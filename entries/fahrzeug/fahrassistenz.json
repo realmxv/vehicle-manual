@@ -1,0 +1,53 @@
+{
+  "id": "fahrzeug-b13r-fahrassistenz",
+  "category": "fahrzeug",
+  "title": "Spurhalteassistent und Aufmerksamkeitsüberwachung",
+  "subtitle": "LKS (Lane Keeping Support) und DAS (Driver Alert Support)",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "LKS",
+    "lane keeping",
+    "spurhalteassistent",
+    "DAS",
+    "driver alert",
+    "aufmerksamkeit",
+    "müdigkeit",
+    "fahrassistenz"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Spurhalteassistent (LKS)"
+    },
+    {
+      "type": "text",
+      "content": "Der Spurhalteassistent (Lane Keeping Support) überwacht die Fahrspurposition des Busses und warnt den Fahrer bei unbeabsichtigtem Verlassen der Fahrspur durch Vibrationen im Lenkrad."
+    },
+    {
+      "type": "info",
+      "content": "Das LKS-System funktioniert ab einer Geschwindigkeit von ca. 60 km/h und erfordert gut sichtbare Fahrbahnmarkierungen."
+    },
+    {
+      "type": "heading",
+      "content": "Aufmerksamkeitsüberwachung (DAS)"
+    },
+    {
+      "type": "text",
+      "content": "Das DAS-System (Driver Alert Support) überwacht das Fahrverhalten und warnt den Fahrer bei Anzeichen von Müdigkeit oder mangelnder Aufmerksamkeit."
+    },
+    {
+      "type": "warning",
+      "content": "Bei Erscheinen der Pausenempfehlung im Display sollten Sie umgehend eine Pause einlegen. Müdigkeit am Steuer ist eine häufige Unfallursache."
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page021_img1.png",
+      "caption": "Symbole der Fahrassistenzsysteme im Display"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "fahrzeug-b13r-technische-daten",
+  "category": "fahrzeug",
+  "title": "Technische Daten",
+  "subtitle": "Motor, Getriebe, Batterie und Typenschild",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "technische daten",
+    "motor",
+    "D13K",
+    "getriebe",
+    "batterie",
+    "typenschild",
+    "FIN",
+    "fahrgestellnummer",
+    "euro 6"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Motor"
+    },
+    {
+      "type": "text",
+      "content": "Modell: D13K. Abgasnorm: EURO 6."
+    },
+    {
+      "type": "heading",
+      "content": "Getriebe"
+    },
+    {
+      "type": "text",
+      "content": "I-Shift-Schaltgetriebe mit automatischem Schaltsystem und ohne Unterbrechung der Kraftübertragung beim Schalten. 12 Vorwärts- und 4 Rückwärtsgänge."
+    },
+    {
+      "type": "heading",
+      "content": "Elektrik"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "I-Start-System von Volvo",
+        "Duales Batteriesystem mit Verteilung der Batterien auf zwei getrennte Stromkreise",
+        "Starterbatterien: 2 x 12 V",
+        "Verbraucherbatterien: 2 x 12 V",
+        "Optimierte Starterbatterien für bessere Motorstartkapazität",
+        "Optimierte Verbraucherbatterien für längere Lebensdauer"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Typenschild"
+    },
+    {
+      "type": "text",
+      "content": "Das Typenschild befindet sich nah beim Fahrersitz und enthält Angaben zur Fahrgestellnummer (FIN), zum zulässigen Gesamtgewicht, zu den Achslasten und zu den Landeskennzeichen."
+    },
+    {
+      "type": "heading",
+      "content": "Fahrzeug-Identifizierungsnummer (FIN)"
+    },
+    {
+      "type": "text",
+      "content": "Die FIN ist vorn rechts in das Fahrgestell des Fahrzeugs eingestanzt, und zwar im Radlauf vor oder hinter der Vorderachse."
+    },
+    {
+      "type": "info",
+      "content": "Die FIN-Struktur: 3 Zeichen Hersteller, dann Fahrgestellversion, Motorversion, Bremsanlage, Prüfziffer, Modelljahr, Montagewerk und Fahrgestell-Identnummer."
+    }
+  ]
+}

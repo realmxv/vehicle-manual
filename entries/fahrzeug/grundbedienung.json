@@ -1,0 +1,65 @@
+{
+  "id": "fahrzeug-b13r-grundbedienung",
+  "category": "fahrzeug",
+  "title": "Grundlegende Bedienelemente",
+  "subtitle": "Feststellbremse, Blinker, Scheibenwischer und Beleuchtung",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "feststellbremse",
+    "blinker",
+    "scheibenwischer",
+    "beleuchtung",
+    "wischer",
+    "bremse",
+    "sperrventil",
+    "notbremsung"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Feststellbremse"
+    },
+    {
+      "type": "text",
+      "content": "Die Feststellbremse wird über einen Schalter am Armaturenbrett betätigt. Eine Kontrollleuchte zeigt den Status an."
+    },
+    {
+      "type": "warning",
+      "content": "Ziehen Sie die Feststellbremse immer an, wenn Sie den Bus abstellen. Sichern Sie den Bus zusätzlich mit Unterlegkeilen bei Gefälle."
+    },
+    {
+      "type": "heading",
+      "content": "Fahrtrichtungsanzeiger (Blinker)"
+    },
+    {
+      "type": "text",
+      "content": "Die Fahrtrichtungsanzeiger werden über den Blinkerhebel links am Lenkrad bedient. Der Blinker schaltet sich nach dem Abbiegen automatisch aus."
+    },
+    {
+      "type": "heading",
+      "content": "Frontscheibenwischer"
+    },
+    {
+      "type": "text",
+      "content": "Der Scheibenwischer wird über den rechten Lenkstockhebel bedient. Es stehen mehrere Geschwindigkeitsstufen und eine Intervallschaltung zur Verfügung."
+    },
+    {
+      "type": "heading",
+      "content": "Warnblinker"
+    },
+    {
+      "type": "text",
+      "content": "Der Warnblinker wird über den Schalter am Armaturenbrett ein- und ausgeschaltet. Verwenden Sie ihn bei Pannen, Gefahrensituationen und beim Be- oder Entladen von Passagieren."
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page036_img1.jpeg",
+      "caption": "Feststellbremse und Bedienelemente"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "fahrzeug-b13r-elektrik",
+  "category": "fahrzeug",
+  "title": "Elektrik",
+  "subtitle": "Arbeiten an der Elektrik und elektrisches Zubehör",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "elektrik",
+    "batterie",
+    "sicherung",
+    "zubehör",
+    "strom",
+    "spannung",
+    "hauptschalter"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Arbeiten an der Elektrik"
+    },
+    {
+      "type": "warning",
+      "content": "Arbeiten an der Elektrik müssen von einer Volvo-Werkstatt ausgeführt werden. Unsachgemäße Arbeiten können zu Bränden oder Schäden an der Fahrzeugelektronik führen."
+    },
+    {
+      "type": "heading",
+      "content": "Wichtige Hinweise"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Bei Arbeiten an der Elektrik: Minuspol der Batterien abklemmen",
+        "Bei nicht angeschlossener Batterie: Lichtmaschine nicht laufen lassen",
+        "Minuspol immer als Erstes abklemmen und als Letztes wieder anschließen",
+        "Starthilfe-Aggregate nicht bei angeschlossenen Batterien verwenden",
+        "Immer vorgeschriebene Sicherungsgröße verwenden",
+        "Stromversorgung immer unterbrechen vor Arbeiten an der Elektrik"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Anschließen von elektrischem Zubehör"
+    },
+    {
+      "type": "text",
+      "content": "Vergewissern Sie sich vor dem Anschließen von elektrischem Zubehör, dass die Elektrik des Busses dafür ausreichend dimensioniert ist. Schließen Sie Zubehör nur an einen ausreichend dimensionierten Stromkreis an."
+    },
+    {
+      "type": "info",
+      "content": "Volvo rät vom Einbau von elektrischem Zubehör ohne Unterstützung durch eine Volvo-Werkstatt ab. Die Dauerbelastung von Sicherungen darf nicht mehr als 70% der Nennstromstärke betragen."
+    }
+  ]
+}

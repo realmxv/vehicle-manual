@@ -1,0 +1,60 @@
+{
+  "id": "fahrzeug-b13r-tuerbremse-absenkung",
+  "category": "fahrzeug",
+  "title": "Türbremse und Absenkung",
+  "subtitle": "Türbremse, Kneeling und geschwindigkeitsabhängige Bodenfreiheit",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "türbremse",
+    "absenkung",
+    "kneeling",
+    "bodenfreiheit",
+    "niveauregulierung",
+    "tür",
+    "einstieg"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Türbremse"
+    },
+    {
+      "type": "text",
+      "content": "Die Türbremse verhindert das Losfahren bei geöffneter Tür. Der Bus kann erst fahren, wenn alle Türen geschlossen sind."
+    },
+    {
+      "type": "heading",
+      "content": "Absenkung (Kneeling)"
+    },
+    {
+      "type": "text",
+      "content": "Die Absenkfunktion senkt den Bus an der Einstiegsseite ab, um den Ein- und Ausstieg zu erleichtern. Die Absenkung erfolgt automatisch beim Öffnen der Tür oder manuell über einen Schalter."
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Schalter für Absenkung betätigen",
+        "Warten, bis der Bus vollständig abgesenkt ist",
+        "Passagiere ein- oder aussteigen lassen",
+        "Türen schließen — der Bus hebt sich automatisch wieder an"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Geschwindigkeitsabhängige Bodenfreiheit"
+    },
+    {
+      "type": "text",
+      "content": "Das System passt die Bodenfreiheit automatisch an die Fahrgeschwindigkeit an. Bei höheren Geschwindigkeiten wird der Bus angehoben, um Beschädigungen an der Unterseite zu vermeiden."
+    },
+    {
+      "type": "info",
+      "content": "Die Absenkung ist nur bei niedrigen Geschwindigkeiten (unter ca. 5 km/h) und angezogener Feststellbremse möglich."
+    }
+  ]
+}

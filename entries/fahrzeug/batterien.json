@@ -1,0 +1,81 @@
+{
+  "id": "fahrzeug-b13r-batterien",
+  "category": "fahrzeug",
+  "title": "Batterien",
+  "subtitle": "Verbraucherbatterien, Starterbatterien, Laden und Starthilfe",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "batterie",
+    "laden",
+    "starthilfe",
+    "starterbatterie",
+    "verbraucherbatterie",
+    "spannung",
+    "24V"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Batteriesystem"
+    },
+    {
+      "type": "text",
+      "content": "Der Bus verfügt über ein Paar Verbraucherbatterien und zwei Starterbatterien. Das Batterieladegerät ist zwischen die Starter- und Verbraucherbatterien geschaltet und sorgt dafür, dass die Starterbatterien immer vollständig aufgeladen sind."
+    },
+    {
+      "type": "heading",
+      "content": "Normales Aufladen"
+    },
+    {
+      "type": "text",
+      "content": "Die Lichtmaschine im Bus kann eine Batterie niemals zu 100% aufladen. Um eine Batterie vollständig zu laden, muss sie mit höherer Spannung als üblich geladen werden."
+    },
+    {
+      "type": "warning",
+      "content": "Stets ein Batterieladegerät mit Spannungsbegrenzer verwenden. Wenn es keinen Spannungsbegrenzer hat, können Fahrzeugelektronik und Batterien beschädigt werden."
+    },
+    {
+      "type": "heading",
+      "content": "Schnellaufladung"
+    },
+    {
+      "type": "text",
+      "content": "Eine Schnellaufladung mit hohem Ladestrom ist nicht empfehlenswert. Nutzen Sie dies nur bei Bedarf. Das Fahrzeug hat neben dem Batteriekasten einen Anschluss für eine externe Stromquelle."
+    },
+    {
+      "type": "heading",
+      "content": "Starthilfe"
+    },
+    {
+      "type": "warning",
+      "content": "Batterien enthalten hochexplosives Knallgas. Werden Starthilfekabel falsch angeschlossen oder beim Starten bewegt, können sich Funken bilden. Dies kann zu einer Explosion der Batterie führen."
+    },
+    {
+      "type": "heading",
+      "content": "Batteriewechsel"
+    },
+    {
+      "type": "text",
+      "content": "Beim Batteriewechsel müssen beide neuen Batterien dieselbe Kapazität und dasselbe Alter haben. Die Batterien müssen mit der richtigen Polarität angeschlossen werden."
+    },
+    {
+      "type": "info",
+      "content": "Batteriesäure ist ätzend und giftig. Eine umweltgerechte Handhabung der Batterien ist unerlässlich. Wenden Sie sich für den Batteriewechsel an eine Volvo-Werkstatt."
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page170_img1.jpeg",
+      "caption": "Batteriekasten"
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page170_img2.jpeg",
+      "caption": "Externer Stromanschluss"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "fahrzeug-b13r-kollisionswarnung",
+  "category": "fahrzeug",
+  "title": "Kollisionswarnung mit Notbremse (CW-EB)",
+  "subtitle": "Collision Warning with Emergency Brake",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "kollisionswarnung",
+    "notbremse",
+    "CW-EB",
+    "collision warning",
+    "emergency brake",
+    "sicherheit",
+    "bremse"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Systemübersicht"
+    },
+    {
+      "type": "text",
+      "content": "Das CW-EB-System (Collision Warning with Emergency Brake) warnt den Fahrer bei drohendem Auffahrunfall und kann bei Bedarf eine Notbremsung einleiten."
+    },
+    {
+      "type": "heading",
+      "content": "Funktionsweise"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Stufe 1: Akustische und visuelle Warnung bei erkannter Kollisionsgefahr",
+        "Stufe 2: Leichte Bremsung zur Warnung des Fahrers",
+        "Stufe 3: Vollständige Notbremsung, wenn der Fahrer nicht reagiert"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Das CW-EB-System ersetzt nicht die Aufmerksamkeit des Fahrers. Halten Sie immer ausreichend Abstand zum vorausfahrenden Fahrzeug."
+    },
+    {
+      "type": "info",
+      "content": "Das System arbeitet mit Radar und Kamera und funktioniert bei Geschwindigkeiten über ca. 15 km/h."
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page020_img2.png",
+      "caption": "CW-EB Warnhinweise im Display"
+    }
+  ]
+}

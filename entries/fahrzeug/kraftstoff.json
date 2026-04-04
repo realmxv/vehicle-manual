@@ -1,0 +1,78 @@
+{
+  "id": "fahrzeug-b13r-kraftstoff",
+  "category": "fahrzeug",
+  "title": "Kraftstoff — Qualität und Spezifikationen",
+  "subtitle": "Dieselkraftstoff, Biodiesel, HVO und Kraftstoffanforderungen",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "kraftstoff",
+    "diesel",
+    "biodiesel",
+    "FAME",
+    "HVO",
+    "B100",
+    "B20",
+    "qualität",
+    "schwefel",
+    "viskosität"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Qualitätsanforderungen"
+    },
+    {
+      "type": "text",
+      "content": "Die Zusammensetzung des Kraftstoffs spielt eine wichtige Rolle für die Funktion, die Lebensdauer und die Abgasemissionen des Motors. Verwenden Sie nur Kraftstoffe, die die gesetzlichen Anforderungen erfüllen."
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "EN590 (mit national angepassten Kälteanforderungen)",
+        "ASTM D 975 Nr. 1-D und 2-D",
+        "JIS KK 2204"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Wasser und Feststoffe"
+    },
+    {
+      "type": "text",
+      "content": "Im Kraftstoff und Kraftstofftank dürfen sich kein Wasser und keine Feststoffe befinden. Wasser begünstigt Wachstum von Bakterien und Pilzen im Tank, die den Filter verstopfen können."
+    },
+    {
+      "type": "heading",
+      "content": "Schwefelgehalt"
+    },
+    {
+      "type": "warning",
+      "content": "Ihr Bus darf nur mit Diesel mit einem Schwefelgehalt von weniger als 10 ppm (S10) betankt werden. Kraftstoff mit einem Schwefelgehalt von mehr als 10 ppm führt zu irreversiblen Schäden am Abgasnachbehandlungssystem."
+    },
+    {
+      "type": "heading",
+      "content": "FAME (Biodiesel)"
+    },
+    {
+      "type": "text",
+      "content": "FAME (Fettsäuremethylester) ist als Biodiesel bekannt und kann als Beimischung für Dieselkraftstoff verwendet werden. Bei Beimischung von über 10% Biodiesel gelten spezielle Service- und Wartungsintervalle."
+    },
+    {
+      "type": "heading",
+      "content": "HVO"
+    },
+    {
+      "type": "text",
+      "content": "Hydrierte Pflanzenöle (HVO) werden aus erneuerbaren Rohstoffen wie Pflanzen und tierischen Fetten hergestellt. Sie weisen in Bezug auf Lagerfähigkeit und Kältefestigkeit dieselben Eigenschaften wie EN590 auf."
+    },
+    {
+      "type": "info",
+      "content": "Benzin und Alkohol dürfen Dieselkraftstoff auf keinen Fall beigemischt werden. Altöl und Zweitaktöl verkürzen die Lebensdauer des Einspritzsystems erheblich."
+    }
+  ]
+}

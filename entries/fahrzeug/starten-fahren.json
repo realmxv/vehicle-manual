@@ -1,0 +1,87 @@
+{
+  "id": "fahrzeug-b13r-starten-fahren",
+  "category": "fahrzeug",
+  "title": "Starten und Fahren",
+  "subtitle": "Motor starten, Parken und Fahrassistenzsysteme",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "starten",
+    "fahren",
+    "motor",
+    "parken",
+    "zündung",
+    "startschalter",
+    "anlassen",
+    "dynamische lenkung"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Dynamische Lenkung"
+    },
+    {
+      "type": "text",
+      "content": "Die dynamische Lenkung passt den Lenkwiderstand an die Fahrgeschwindigkeit an. Bei niedrigen Geschwindigkeiten wird die Lenkung leichter, bei höheren Geschwindigkeiten schwerer für mehr Stabilität."
+    },
+    {
+      "type": "heading",
+      "content": "Startschalter"
+    },
+    {
+      "type": "text",
+      "content": "Der Startschalter hat mehrere Positionen für unterschiedliche Funktionen des Fahrzeugs."
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Position 0: Alles ausgeschaltet",
+        "Position 1 (Fahrmodus): Drehen Sie den Schlüssel auf Position 1 — alle Systeme werden aktiviert",
+        "Position 2 (Start): Drehen Sie den Schlüssel weiter zum Starten des Motors",
+        "Lassen Sie den Schlüssel los, sobald der Motor läuft — er kehrt automatisch zu Position 1 zurück"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Starten des Motors"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Gangwahlhebel steht auf Neutral (N)",
+        "Feststellbremse ist angezogen",
+        "Luftdruck im System ist ausreichend"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Starten Sie den Motor niemals bei eingelegtem Gang. Der Bus könnte sich unkontrolliert bewegen."
+    },
+    {
+      "type": "heading",
+      "content": "Parken"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Feststellbremse betätigen",
+        "Schalthebel auf N (Neutral) stellen",
+        "Motor ausschalten",
+        "Bei Gefälle zusätzlich Gang einlegen und Räder mit Unterlegkeilen sichern"
+      ]
+    },
+    {
+      "type": "info",
+      "content": "Lassen Sie den Motor nach längerer Fahrt ca. 30 Sekunden im Leerlauf laufen, bevor Sie ihn abstellen. Dies schützt den Turbolader."
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page020_img1.jpeg",
+      "caption": "Startschalter-Positionen"
+    }
+  ]
+}

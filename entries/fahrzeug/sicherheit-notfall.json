@@ -1,0 +1,101 @@
+{
+  "id": "fahrzeug-b13r-sicherheit-notfall",
+  "category": "fahrzeug",
+  "title": "Sicherheits- und Notfallmaßnahmen",
+  "subtitle": "Brandschutz, Abschleppen, Reifenwechsel, Starthilfe und Notausrüstung",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "sicherheit",
+    "notfall",
+    "brand",
+    "feuer",
+    "feuerlöscher",
+    "abschleppen",
+    "reifenwechsel",
+    "starthilfe",
+    "notausrüstung",
+    "wagenheber",
+    "werkzeug"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Brandschutz"
+    },
+    {
+      "type": "text",
+      "content": "Der Bus ist mit Feuerlöschern und ggf. einem automatischen Brandschutzsystem ausgestattet. Machen Sie sich mit der Position und Bedienung der Feuerlöscher vertraut."
+    },
+    {
+      "type": "warning",
+      "content": "Bei Brandverdacht: Sofort anhalten, Motor abstellen, alle Passagiere evakuieren und Feuerwehr rufen. Versuchen Sie nur kleine, beherrschbare Brände selbst zu löschen."
+    },
+    {
+      "type": "heading",
+      "content": "Abschleppen"
+    },
+    {
+      "type": "text",
+      "content": "Beim Abschleppen müssen besondere Vorkehrungen getroffen werden, um Schäden am Antriebsstrang zu vermeiden."
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Gangwahlhebel auf N (Neutral) stellen",
+        "Feststellbremse lösen",
+        "Abschleppstange oder -seil an den vorgesehenen Abschleppösen befestigen",
+        "Maximale Abschleppgeschwindigkeit: 20 km/h",
+        "Maximale Abschleppentfernung ohne laufenden Motor beachten"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Abschleppen mit angehobener Antriebsachse ist die sicherste Methode. Bei Abschleppen mit allen Rädern auf dem Boden besteht die Gefahr von Getriebeschäden."
+    },
+    {
+      "type": "heading",
+      "content": "Reifenwechsel"
+    },
+    {
+      "type": "text",
+      "content": "Verwenden Sie den mitgelieferten Wagenheber und das Bordwerkzeug für den Reifenwechsel. Beachten Sie die vorgesehenen Ansatzpunkte für den Wagenheber."
+    },
+    {
+      "type": "heading",
+      "content": "Starthilfe"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Starthilfekabel an die 24V-Batterie des Spenderfahrzeugs anschließen",
+        "Rotes Kabel: Pluspol (+) an Pluspol (+)",
+        "Schwarzes Kabel: Minuspol (-) am Spenderfahrzeug, Massepunkt am Bus (nicht direkt an der Batterie!)",
+        "Motor des Spenderfahrzeugs starten",
+        "Motor des Busses starten",
+        "Kabel in umgekehrter Reihenfolge entfernen"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Verwenden Sie ausschließlich 24V-Starthilfe. Eine falsche Spannung kann die Fahrzeugelektronik schwer beschädigen."
+    },
+    {
+      "type": "heading",
+      "content": "Steuergerätepanel Motor"
+    },
+    {
+      "type": "text",
+      "content": "Das Steuergerätepanel im Motorraum ermöglicht den Notbetrieb des Motors. Hier können grundlegende Funktionen wie Start/Stopp und Drehzahlregelung direkt am Motor bedient werden."
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page113_img1.jpeg",
+      "caption": "Steuergerätepanel im Motorraum"
+    }
+  ]
+}

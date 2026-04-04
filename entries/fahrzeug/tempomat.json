@@ -1,0 +1,69 @@
+{
+  "id": "fahrzeug-b13r-tempomat",
+  "category": "fahrzeug",
+  "title": "Tempomat und Abstandsregeltempomat",
+  "subtitle": "Geschwindigkeitsregelung und ACC (Adaptive Cruise Control)",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "tempomat",
+    "ACC",
+    "adaptive cruise control",
+    "geschwindigkeitsregelung",
+    "abstandsregeltempomat",
+    "bremsschutz"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Tempomat"
+    },
+    {
+      "type": "text",
+      "content": "Der Tempomat hält die eingestellte Geschwindigkeit automatisch. Er wird über die Tasten am Lenkrad bedient."
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Tempomat aktivieren: SET-Taste drücken bei gewünschter Geschwindigkeit",
+        "Geschwindigkeit erhöhen: + Taste drücken",
+        "Geschwindigkeit verringern: - Taste drücken",
+        "Tempomat deaktivieren: Bremspedal betätigen oder OFF-Taste drücken",
+        "Letzte Geschwindigkeit wieder aufnehmen: RESUME-Taste drücken"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Abstandsregeltempomat (ACC)"
+    },
+    {
+      "type": "text",
+      "content": "Der ACC (Adaptive Cruise Control) hält nicht nur die eingestellte Geschwindigkeit, sondern passt diese automatisch an den Abstand zum vorausfahrenden Fahrzeug an."
+    },
+    {
+      "type": "info",
+      "content": "Der Abstand zum vorausfahrenden Fahrzeug kann in mehreren Stufen eingestellt werden. Die Einstellung erfolgt über die Tasten am Lenkrad."
+    },
+    {
+      "type": "heading",
+      "content": "Bremsschutz Tempomat"
+    },
+    {
+      "type": "text",
+      "content": "Der Abstandsregeltempomat verfügt über eine integrierte Bremsfunktion. Bei zu geringem Abstand zum Vordermann wird der Bus automatisch abgebremst."
+    },
+    {
+      "type": "warning",
+      "content": "Der ACC ersetzt nicht die Aufmerksamkeit des Fahrers. Überwachen Sie stets den Verkehr und seien Sie jederzeit bereit, selbst zu bremsen."
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page037_img1.jpeg",
+      "caption": "Tempomat-Bedienung am Lenkrad"
+    }
+  ]
+}

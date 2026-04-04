@@ -1,0 +1,70 @@
+{
+  "id": "fahrzeug-b13r-instrumente",
+  "category": "fahrzeug",
+  "title": "Instrumentenanzeige und Symbole",
+  "subtitle": "Kombiinstrument, Kontrollleuchten und Displaysymbole",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "instrumente",
+    "display",
+    "symbole",
+    "kontrollleuchten",
+    "kombiinstrument",
+    "warnleuchten",
+    "anzeige",
+    "bordcomputer"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Kombiinstrument"
+    },
+    {
+      "type": "text",
+      "content": "Das Kombiinstrument zeigt alle wichtigen Fahrzeuginformationen an: Geschwindigkeit, Drehzahl, Kraftstoffstand, Kühlmitteltemperatur und weitere Betriebsdaten."
+    },
+    {
+      "type": "heading",
+      "content": "Displaysymbole — Farben und Bedeutung"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Rot: Gefahr — sofort anhalten und Problem beheben",
+        "Gelb/Orange: Warnung — baldmöglichst prüfen lassen",
+        "Grün: System aktiv und funktioniert normal",
+        "Weiß: Information ohne Handlungsbedarf"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Wichtige Warnsymbole"
+    },
+    {
+      "type": "text",
+      "content": "Die wichtigsten Warnsymbole umfassen: Motoröldruckwarnung, Kühlmitteltemperatur, Bremsanlage, Batterieladung, Feststellbremse und Abgasnachbehandlung."
+    },
+    {
+      "type": "warning",
+      "content": "Bei roter Warnleuchte für Motoröldruck oder Kühlmitteltemperatur: Motor sofort abstellen und Ursache prüfen. Weiterfahrt kann zu schweren Motorschäden führen."
+    },
+    {
+      "type": "heading",
+      "content": "Bordcomputer"
+    },
+    {
+      "type": "text",
+      "content": "Der Bordcomputer zeigt Informationen wie Kraftstoffverbrauch, Restreichweite, Fahrzeit und Durchschnittsgeschwindigkeit an. Die Anzeige kann über die Lenkradtasten umgeschaltet werden."
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page038_img1.jpeg",
+      "caption": "Kombiinstrument Übersicht"
+    }
+  ]
+}

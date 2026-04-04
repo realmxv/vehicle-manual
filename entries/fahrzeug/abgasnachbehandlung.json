@@ -1,0 +1,94 @@
+{
+  "id": "fahrzeug-b13r-abgasnachbehandlung",
+  "category": "fahrzeug",
+  "title": "Abgasnachbehandlungssystem",
+  "subtitle": "SCR, DPF, Regeneration und On-Board-Diagnose",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "abgas",
+    "SCR",
+    "DPF",
+    "partikelfilter",
+    "regeneration",
+    "OBD",
+    "emission",
+    "katalysator",
+    "MIL"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Systembeschreibung"
+    },
+    {
+      "type": "text",
+      "content": "Das Abgasnachbehandlungssystem umfasst einen Dieseloxidationskatalysator (DOC), einen Dieselpartikelfilter (DPF), eine Mischkammer für AdBlue, den SCR-Katalysator und einen Ammoniakschlupf-Katalysator (ASC)."
+    },
+    {
+      "type": "heading",
+      "content": "Selektive katalytische Reduktion (SCR)"
+    },
+    {
+      "type": "text",
+      "content": "Die Abgasreinigung erfolgt mithilfe von Harnstofflösung (AdBlue), die vor dem SCR-Katalysator in die Abgasanlage eingespritzt wird. Stickoxide werden so in harmlosen Stickstoff und Wasserdampf umgewandelt."
+    },
+    {
+      "type": "heading",
+      "content": "Dieselpartikelfilter (DPF)"
+    },
+    {
+      "type": "text",
+      "content": "Der keramische Dieselpartikelfilter reduziert den Anteil von Rußpartikeln, Kohlenwasserstoffen und Kohlenmonoxid im Abgas. Damit der Filter ordnungsgemäß funktioniert, muss schwefelfreier Kraftstoff (unter 10 ppm) verwendet werden."
+    },
+    {
+      "type": "heading",
+      "content": "Regeneration"
+    },
+    {
+      "type": "text",
+      "content": "Im normalen Motorbetrieb lagern sich Verbrennungsprodukte im Abgasnachbehandlungssystem ab. Durch den Regenerationsprozess werden Ruß und Schwefel verbrannt und entfernt."
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Regeneration während der Fahrt: Automatisch, kein Eingriff des Fahrers erforderlich",
+        "Regeneration bei abgestelltem Fahrzeug: Kann vom Fahrer oder Techniker über das Menü gestartet werden",
+        "Regeneration dauert ca. 45 bis 120 Minuten bei abgestelltem Fahrzeug"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Während der Regeneration bei abgestelltem Fahrzeug darf der Bus nicht gefahren werden. Der Bereich um die Auspuffanlage wird sehr heiß."
+    },
+    {
+      "type": "heading",
+      "content": "On-Board-Diagnose (OBD)"
+    },
+    {
+      "type": "text",
+      "content": "Das OBD-System überwacht den Anteil von Stickstoffoxiden und Partikeln im Abgas sowie AdBlue-Verbrauch, -Verfügbarkeit und -Qualität. Bei emissionsbezogenen Störungen leuchtet das MIL-Symbol auf."
+    },
+    {
+      "type": "heading",
+      "content": "MIL-Symbol Blinkmuster"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "5s an / 5s aus: Normaler Zustand, keine Störungen",
+        "1s an / 1s aus: Emissionsbezogene Störung erkannt",
+        "Dauerhaft leuchtend: Störung aufgetreten — Werkstatt aufsuchen"
+      ]
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page158_img1.png",
+      "caption": "Abgasnachbehandlungssystem Übersicht"
+    }
+  ]
+}

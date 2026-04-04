@@ -1,0 +1,93 @@
+{
+  "id": "fahrzeug-b13r-bremssysteme",
+  "category": "fahrzeug",
+  "title": "Bremssysteme",
+  "subtitle": "EBS, ABS, ESP, Panikbremsassistent und Antriebsschlupfregelung",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "bremse",
+    "EBS",
+    "ABS",
+    "ESP",
+    "TCS",
+    "panikbremse",
+    "bremsassistent",
+    "antriebsschlupf",
+    "stabilität"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Elektronische Bremsanlage (EBS)"
+    },
+    {
+      "type": "text",
+      "content": "Das elektronische Bremssystem (EBS) ergänzt das reguläre, pneumatische Bremssystem. EBS sorgt dafür, dass der Bus eine optimale Bremswirkung erhält. Es verfügt über eine Backup-Funktion für den Notfall."
+    },
+    {
+      "type": "heading",
+      "content": "Antiblockiersystem (ABS)"
+    },
+    {
+      "type": "text",
+      "content": "ABS ist ein System, welches ein Blockieren der Räder beim Bremsen verhindert. Es ist ein Teil des EBS-Systems und eine vollständig automatische Funktion."
+    },
+    {
+      "type": "heading",
+      "content": "Elektronisches Stabilitätsprogramm (ESP)"
+    },
+    {
+      "type": "text",
+      "content": "ESP ist ein System, welches das Risiko für ein Umkippen oder Schleudern des Busses reduziert. Sobald das System feststellt, dass der Bus umkippt, wird die Geschwindigkeit reduziert."
+    },
+    {
+      "type": "heading",
+      "content": "Panikbremsassistent"
+    },
+    {
+      "type": "text",
+      "content": "Die Bremsassistenzfunktion ist so konzipiert, dass in einer Notsituation eine volle Bremskraft schneller erreicht wird. Falls das Bremspedal plötzlich niedergedrückt wird, erhöht sich der Bremsdruck und die Bremsen funktionieren kräftiger."
+    },
+    {
+      "type": "heading",
+      "content": "Antriebsschlupfregelung (TCS)"
+    },
+    {
+      "type": "text",
+      "content": "Das Traktionskontrollsystem (TCS) sorgt für höhere Stabilität und bessere Traktion. TCS verringert automatisch den Radschlupf, indem das Motordrehmoment gesenkt wird."
+    },
+    {
+      "type": "info",
+      "content": "Gelände-TCS: Für abseits der Straße unter schwierigen Bedingungen. Verbessert die Traktion auf Sand, Kies oder Schnee. Bei normaler Fahrt nicht verwenden."
+    },
+    {
+      "type": "heading",
+      "content": "Berganfahrhilfe / Rückrollsperre"
+    },
+    {
+      "type": "text",
+      "content": "Die Berganfahrhilfe verhindert durch Beibehalten der Bremsleistung bis der Bus im Traktionsmodus ist, dass der Bus rückwärts rollt, sobald er an einer Steigung losfährt."
+    },
+    {
+      "type": "heading",
+      "content": "Differentialsperre"
+    },
+    {
+      "type": "text",
+      "content": "Die Differentialsperre sorgt für eine erhöhte Traktion, indem sie beide Räder einer Achse auf die gleiche Drehzahl begrenzt. Sie kann automatisch oder manuell eingegeben zugeschaltet werden."
+    },
+    {
+      "type": "heading",
+      "content": "Verschleiß der Bremsbeläge"
+    },
+    {
+      "type": "text",
+      "content": "Wenn die Bremsbeläge an einer Achse stärker verschleißen als an der anderen, wird die Bremskraft geändert und damit der Verschleiß ausgeglichen. Der geschätzte Restweg bis zum Austausch wird im Display angezeigt."
+    }
+  ]
+}

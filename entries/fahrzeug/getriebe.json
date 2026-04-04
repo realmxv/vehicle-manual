@@ -1,0 +1,101 @@
+{
+  "id": "fahrzeug-b13r-getriebe",
+  "category": "fahrzeug",
+  "title": "Getriebe — Funktionsbeschreibungen",
+  "subtitle": "I-Shift Getriebe, Softwarepakete und Fahrmodi",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "getriebe",
+    "I-Shift",
+    "schaltung",
+    "kickdown",
+    "power",
+    "economy",
+    "freilauf",
+    "kupplung",
+    "gangwechsel"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "I-Shift Getriebe"
+    },
+    {
+      "type": "text",
+      "content": "Der Bus hat ein automatisiertes Schaltgetriebe mit 12 Vorwärts- und 4 Rückwärtsgängen. Kuppeln und Schalten erfolgen vollautomatisch. Der Fahrer kann wahlweise manuell schalten."
+    },
+    {
+      "type": "heading",
+      "content": "Startanweisungen"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Stellen Sie am Gangwähler den Leerlauf ein oder bringen Sie den Schalthebel in die geneigte Position",
+        "Betätigen Sie das Bremspedal und stellen Sie den Schalthebel auf A, M oder R",
+        "Motor starten"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Automatischer Gangwechsel"
+    },
+    {
+      "type": "text",
+      "content": "Der Gangwechsel erfolgt automatisch. Das System kontrolliert den Status von Kupplung, Getriebe und Drosselklappe und optimiert Gang und Schaltpunkt basierend auf Gaspedalposition, Gewicht, Steigung und Beschleunigung."
+    },
+    {
+      "type": "heading",
+      "content": "Softwarefunktionen"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Automatischer Gangwechsel — Standardmodus",
+        "Berganfahrhilfe — verhindert Rückrollen",
+        "Notbetrieb — eingeschränkter Betrieb bei Getriebefehler",
+        "Erweiterte Schaltstrategie — optimiert Retarder-Einsatz",
+        "Launch Control — Räder im Leerlauf antreiben",
+        "Idle Drive — Gangwechsel mit Gangtaste +/-",
+        "Power-Programm — Economy/Performance-Modus wechseln",
+        "Kickdown — maximale Beschleunigung bei Vollgas",
+        "Freilauf (I-Roll) — automatisches Auskuppeln zur Kraftstoffeinsparung"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Schalten von Hand"
+    },
+    {
+      "type": "text",
+      "content": "Ziehen Sie zum Gangwechsel zunächst den Handhebel in die manuelle Stellung. Wählen Sie den Gang dann mit der Taste +/- an der Seite des Handhebels."
+    },
+    {
+      "type": "heading",
+      "content": "Kickdown"
+    },
+    {
+      "type": "text",
+      "content": "Kickdown wird durch Durchtreten des Gaspedals bis auf den Boden ausgelöst. Das System wählt eine auf maximale Beschleunigung ausgelegte Schaltstrategie."
+    },
+    {
+      "type": "warning",
+      "content": "Das Anfahren in einem zu hohen Gang belastet die Kupplung stark und es besteht ein erhöhtes Risiko eines Kupplungsschadens. Versuchen Sie an Steigungen auf keinen Fall, den Bus mit dem Gaspedal am Zurückrollen zu hindern."
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page168_img1.jpeg",
+      "caption": "Schalthebeleinheit I-Shift"
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page169_img1.jpeg",
+      "caption": "Gangwechsel manuell"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "fahrzeug-b13r-fahrerumgebung",
+  "category": "fahrzeug",
+  "title": "Fahrerumgebung",
+  "subtitle": "Lenkrad, Hupe und Bedienelemente",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "lenkrad",
+    "hupe",
+    "bedienelemente",
+    "fahrerplatz",
+    "sitz",
+    "spiegel",
+    "fahrerumgebung"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Lenkrad und Bedienelemente"
+    },
+    {
+      "type": "text",
+      "content": "Das Lenkrad verfügt über integrierte Bedientasten für verschiedene Funktionen wie Tempomat, Telefon und Fahrerinformations-Display."
+    },
+    {
+      "type": "heading",
+      "content": "Verstellen des Lenkrads"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Hebel an der Lenksäule lösen",
+        "Lenkrad in gewünschte Position bringen (Höhe und Neigung)",
+        "Hebel wieder fest arretieren"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Lenkradtastatur"
+    },
+    {
+      "type": "text",
+      "content": "Die Tasten am Lenkrad ermöglichen die Bedienung von Tempomat, Telefon, Medienwiedergabe und Fahrerinformations-Display, ohne die Hände vom Lenkrad zu nehmen."
+    },
+    {
+      "type": "heading",
+      "content": "Hupe"
+    },
+    {
+      "type": "text",
+      "content": "Die Hupe wird durch Drücken der Mitte des Lenkrads betätigt. Es sind zwei Signalhörner verbaut — ein Stadtsignal und ein Fernsignal."
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page028_img1.jpeg",
+      "caption": "Lenkrad mit Bedienelementen"
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page029_img1.png",
+      "caption": "Bedienelemente am Lenkrad"
+    }
+  ]
+}

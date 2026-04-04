@@ -1,0 +1,64 @@
+{
+  "id": "fahrzeug-b13r-tanken",
+  "category": "fahrzeug",
+  "title": "Tanken",
+  "subtitle": "Diesel tanken und AdBlue auffüllen",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "tanken",
+    "diesel",
+    "adblue",
+    "kraftstoff",
+    "tank",
+    "B100",
+    "biodiesel"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Betanken mit Diesel"
+    },
+    {
+      "type": "text",
+      "content": "Füllen Sie den Tank immer ganz. Tanken Sie am Ende des Tages nach, damit sich im Kraftstofftank kein Kondenswasser aufgrund von Temperaturunterschieden bilden kann."
+    },
+    {
+      "type": "warning",
+      "content": "Verwenden Sie immer schwefelfreien Kraftstoff. Schwefel beschädigt das Abgasnachbehandlungssystem."
+    },
+    {
+      "type": "heading",
+      "content": "Dieseltypen"
+    },
+    {
+      "type": "text",
+      "content": "Auf dem Kraftstofftank gibt ein gelbes Etikett an, welche Kraftstoffarten verwendet werden können. Der Bus ist für den Betrieb mit B100-Kraftstoff ausgelegt, kann aber auch mit Diesel betrieben werden."
+    },
+    {
+      "type": "heading",
+      "content": "Auffüllen von AdBlue"
+    },
+    {
+      "type": "warning",
+      "content": "Füllen Sie niemals AdBlue in den Kraftstofftank oder Kraftstoff in den AdBlue-Tank. Andernfalls kann es zu schweren Schäden an Motor und Kraftstoffsystem kommen."
+    },
+    {
+      "type": "text",
+      "content": "Der Tankdeckel ist blau und mit AdBlue beschriftet. Der Verbrauch hängt vom Fahrstil ab und beträgt normalerweise etwa 9% bis 11% des Dieselverbrauchs."
+    },
+    {
+      "type": "info",
+      "content": "Prüfen Sie den AdBlue-Füllstand im Tank bei jedem Nachtanken. Wenn der Motor läuft und kein AdBlue vorhanden ist, kann das Abgasreinigungssystem (SCR) beschädigt werden."
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page125_img1.jpeg",
+      "caption": "AdBlue-Einfüllstutzen und Füllstandsanzeige"
+    }
+  ]
+}

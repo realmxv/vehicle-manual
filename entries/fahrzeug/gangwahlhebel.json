@@ -1,0 +1,61 @@
+{
+  "id": "fahrzeug-b13r-gangwahlhebel",
+  "category": "fahrzeug",
+  "title": "Gangwahlhebel und Schaltung",
+  "subtitle": "Schalthebeleinheit und Schaltbedienung",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "gangwahlhebel",
+    "schaltung",
+    "schalthebel",
+    "getriebe",
+    "neutral",
+    "rückwärtsgang",
+    "gang"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Schalthebeleinheit"
+    },
+    {
+      "type": "text",
+      "content": "Die Schalthebeleinheit befindet sich am Fahrersitz. Der Fahrer kann wahlweise manuell schalten oder den Automatikbetrieb nutzen."
+    },
+    {
+      "type": "heading",
+      "content": "Schalthebelstellungen"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "A — Automatikbetrieb: Automatischer Gangwechsel",
+        "N — Neutral: Leerlauf",
+        "M — Manueller Modus: Manuelles Schalten mit +/- Tasten",
+        "R — Rückwärtsgang: Nur bei stehendem Fahrzeug einlegen"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Legen Sie den Rückwärtsgang nur bei stehendem Fahrzeug ein. Das System wählt automatisch R2 aus."
+    },
+    {
+      "type": "heading",
+      "content": "ARMS (Automatisiertes Rangiersystem)"
+    },
+    {
+      "type": "text",
+      "content": "ARMS ermöglicht sanftes Rangieren bei niedrigen Geschwindigkeiten durch feinfühlige Steuerung der Kupplung."
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page036_img967.jpeg",
+      "caption": "Schalthebeleinheit"
+    }
+  ]
+}

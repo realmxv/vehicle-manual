@@ -1,0 +1,74 @@
+{
+  "id": "fahrzeug-b13r-taegliche-inspektion",
+  "category": "fahrzeug",
+  "title": "Tägliche Inspektion des Busses",
+  "subtitle": "Tägliche Überprüfung und Flüssigkeitsstände",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "inspektion",
+    "täglich",
+    "prüfung",
+    "flüssigkeiten",
+    "öl",
+    "kühlmittel",
+    "wartung"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Tägliche Überprüfung"
+    },
+    {
+      "type": "text",
+      "content": "Die tägliche Inspektion des Busses dient dazu, eventuelle Störungen zu erkennen und ist sehr wichtig, um ungeplante Ausfallzeiten vorzubeugen."
+    },
+    {
+      "type": "heading",
+      "content": "Kombiinstrument und Fahrerinformations-Display"
+    },
+    {
+      "type": "text",
+      "content": "Vergewissern Sie sich, dass im Kombiinstrument keine Warnanzeigen und Anzeigeleuchten aufleuchten und im Fahrerinformations-Display keine Störungen angezeigt werden."
+    },
+    {
+      "type": "heading",
+      "content": "Flüssigkeitsstände prüfen"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Scheibenwaschflüssigkeit — bei Bedarf nachfüllen",
+        "Kühlmittel — Volvo Coolant VCS2 verwenden",
+        "Motoröl — Ölmessstab und Display prüfen",
+        "Hydrauliköl — Stand beim Kühlerlüfterantrieb und Servolenkung prüfen"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Verwenden Sie immer ein Kühlmittel, das die Volvo Coolant Specification (VCS2) Standard 418-0007 erfüllt. Falsches Kühlmittel kann Korrosionsschutz beeinträchtigen und zu Motorschäden führen."
+    },
+    {
+      "type": "heading",
+      "content": "Weitere tägliche Prüfpunkte"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Luftbehälter — Ventilringe auf Kondenswasser prüfen",
+        "Reifen — Reifendruck und Zustand prüfen, Steine zwischen Zwillingsrädern entfernen",
+        "Undichtigkeit — Auf Öl, Kraftstoff oder Kühlmittelaustritt unter dem Bus prüfen",
+        "Sicherheitsausrüstung — Feuerlöscher, Verbandkasten, Warndreieck und Nothammer prüfen"
+      ]
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page118_img1.jpeg",
+      "caption": "Kraftstoff-Kennzeichnungen"
+    }
+  ]
+}

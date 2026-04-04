@@ -1,0 +1,56 @@
+{
+  "id": "fahrzeug-b13r-langzeitparken",
+  "category": "fahrzeug",
+  "title": "Langzeitparken",
+  "subtitle": "Bus für längere Standzeiten vorbereiten",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "langzeitparken",
+    "standzeit",
+    "aufwärmen",
+    "batterie",
+    "stilllegen"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Langzeitparken"
+    },
+    {
+      "type": "text",
+      "content": "Falls der Bus längere Zeit nicht gefahren wird, muss er regelmäßig auf Betriebstemperatur betrieben und die Batterieladung aufrechterhalten werden."
+    },
+    {
+      "type": "heading",
+      "content": "Aufwärmen"
+    },
+    {
+      "type": "text",
+      "content": "Der Bus muss mindestens alle 6 Wochen auf Betriebstemperatur betrieben werden."
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Lassen Sie den Bus mindestens 15 Minuten lang laufen, bis die volle Betriebstemperatur erreicht ist",
+        "Aktivieren Sie alle Funktionen und Komponenten"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Batterie"
+    },
+    {
+      "type": "text",
+      "content": "Stellen Sie sicher, dass die Batterien vollständig aufgeladen werden. Trennen Sie die Batterien, damit sie sich nicht entladen."
+    },
+    {
+      "type": "info",
+      "content": "Hauptschalter ausschalten, wenn der Bus nicht gefahren wird."
+    }
+  ]
+}

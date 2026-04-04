@@ -1,0 +1,72 @@
+{
+  "id": "fahrzeug-b13r-reinigung",
+  "category": "fahrzeug",
+  "title": "Fahrzeugreinigung",
+  "subtitle": "Außenreinigung, Hochdruckreiniger, Innenreinigung und Felgenpflege",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "reinigung",
+    "waschen",
+    "hochdruckreiniger",
+    "innenreinigung",
+    "felgen",
+    "pflege",
+    "wachs"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Garantie"
+    },
+    {
+      "type": "text",
+      "content": "Beachten Sie, dass die Garantie nicht zutrifft, wenn die in diesem Kapitel aufgeführten Anweisungen nicht beachtet werden."
+    },
+    {
+      "type": "heading",
+      "content": "Hochdruckreiniger"
+    },
+    {
+      "type": "text",
+      "content": "Das Waschen mit einem Hochdruckreiniger ist eine effiziente Weise zur Reinigung des Busses. Der maximale Druck des Hochdruckreinigers sollte nicht 130 bar übertreffen."
+    },
+    {
+      "type": "warning",
+      "content": "Spritzen Sie niemals Wasser direkt auf: elektrische Komponenten und Anschlüsse, Lufteinlässe und Belüftung für Getriebe, Schallwände, Stützlager, Steckverbindungen, Verbindungen und Dichtungen."
+    },
+    {
+      "type": "heading",
+      "content": "Reinigungsmittel — pH-Skala"
+    },
+    {
+      "type": "text",
+      "content": "Verwenden Sie Reinigungsmittel mit einem pH-Wert zwischen 5,5 und 8. Stark saure oder alkalische Reinigungsmittel können Lack, Aluminium und andere Oberflächen beschädigen."
+    },
+    {
+      "type": "heading",
+      "content": "Innenreinigung"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Beginnen Sie oben im Bus (Decken, Gepäckträger, Lichter)",
+        "Arbeiten Sie sich nach unten vor (Wandlaminate, Trennwände, Handläufe, Sitze)",
+        "Den Fußboden zuletzt reinigen",
+        "Laufen Sie nicht über gewaschene oder gereinigte Flächen, bis diese vollständig trocken sind"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Fahrer-Sitzplatz"
+    },
+    {
+      "type": "text",
+      "content": "Seien Sie bei der Reinigung des Fahrer-Sitzplatzes besonders vorsichtig. Wischen Sie die Armaturentafel und das Lenkrad mit einem feuchten Lappen und mildem Reinigungsmittel ab. Verwenden Sie keine Lösungsmittel."
+    }
+  ]
+}

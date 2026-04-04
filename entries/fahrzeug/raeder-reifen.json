@@ -1,0 +1,77 @@
+{
+  "id": "fahrzeug-b13r-raeder-reifen",
+  "category": "fahrzeug",
+  "title": "Räder und Reifen",
+  "subtitle": "Reifendruck, Reifenverschleiß, Schneeketten und Spureinstellung",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "reifen",
+    "räder",
+    "reifendruck",
+    "schneeketten",
+    "verschleiß",
+    "spureinstellung",
+    "zwillingsräder"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Reifen prüfen"
+    },
+    {
+      "type": "text",
+      "content": "Die Reifen müssen regelmäßig geprüft werden, um Sicherheit und einen möglichst niedrigen Kraftstoffverbrauch sicherzustellen. Der Reifendruck muss regelmäßig und mindestens alle 14 Tage geprüft werden."
+    },
+    {
+      "type": "heading",
+      "content": "Verschleiß vermeiden"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Achten Sie auf den richtigen Luftdruck",
+        "Reifenverschleiß nimmt mit der Fahrgeschwindigkeit zu",
+        "Fahren Sie nicht mit schlecht ausgewuchteten Rädern",
+        "Versetzen Sie die Reifen nicht unnötigerweise"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Zwillingsräder"
+    },
+    {
+      "type": "text",
+      "content": "Verwenden Sie für Zwillingsräder ausschließlich Reifen desselben Typs. Der Unterschied beim Reifendurchmesser darf maximal 6 mm betragen."
+    },
+    {
+      "type": "heading",
+      "content": "Schneeketten"
+    },
+    {
+      "type": "text",
+      "content": "Bei Schneeketten beträgt die zulässige Höchstgeschwindigkeit 50 km/h. Sie verbessern Traktion und Bremsverhalten auf verschneiten oder eisglatten Oberflächen."
+    },
+    {
+      "type": "warning",
+      "content": "Vermeiden Sie bei Verwendung von Schneeketten das Absenken des Busses, um Schäden am Radgehäuse und den Seitenverkleidungen zu vermeiden."
+    },
+    {
+      "type": "heading",
+      "content": "Spureinstellung"
+    },
+    {
+      "type": "text",
+      "content": "Die Spureinstellung ist wichtig, um den Kraftstoffverbrauch niedrig zu halten und die Reifenabnutzung zu verringern. Bei ungleichmäßigem oder zu starkem Verschleiß Spureinstellung prüfen lassen."
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page125_img3.png",
+      "caption": "Reifendruck-Diagramme"
+    }
+  ]
+}

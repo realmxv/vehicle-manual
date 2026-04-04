@@ -1,0 +1,75 @@
+{
+  "id": "fahrzeug-b13r-infotainment",
+  "category": "fahrzeug",
+  "title": "Infotainment-System",
+  "subtitle": "Radio, Bluetooth, Telefon, Medien und USB",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "infotainment",
+    "radio",
+    "bluetooth",
+    "telefon",
+    "medien",
+    "USB",
+    "DAB",
+    "lautsprecher",
+    "musik"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Infotainment-Übersicht"
+    },
+    {
+      "type": "text",
+      "content": "Das Infotainment-System umfasst Radio (UKW/DAB), Bluetooth-Freisprecheinrichtung, Medienwiedergabe und USB-Anschluss. Die Bedienung erfolgt über das Display und die Lenkradtasten."
+    },
+    {
+      "type": "heading",
+      "content": "Bluetooth-Verbindung herstellen"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Bluetooth an Ihrem Mobiltelefon aktivieren",
+        "Im Infotainment-System: Einstellungen → Bluetooth → Gerät suchen",
+        "Ihr Telefon aus der Liste auswählen",
+        "Kopplungscode bestätigen",
+        "Verbindung wird hergestellt — Telefon- und Medienwiedergabe verfügbar"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Radio"
+    },
+    {
+      "type": "text",
+      "content": "Das Radio empfängt UKW- und DAB-Sender. Gespeicherte Sender können über die Favoritentasten abgerufen werden. Die Lautstärke wird über die Lenkradtasten oder den Lautstärkeregler eingestellt."
+    },
+    {
+      "type": "heading",
+      "content": "USB-Medienwiedergabe"
+    },
+    {
+      "type": "text",
+      "content": "Schließen Sie ein USB-Speichergerät an den USB-Anschluss an. Das System erkennt automatisch kompatible Audiodateien und zeigt sie im Mediaplayer an."
+    },
+    {
+      "type": "heading",
+      "content": "Einstellungen"
+    },
+    {
+      "type": "text",
+      "content": "Im Einstellungsmenü können Lautstärke, Klangbalance, Uhrzeit, Datumsformat und Sprache angepasst werden."
+    },
+    {
+      "type": "info",
+      "content": "Das System kann bis zu 5 Bluetooth-Geräte speichern. Die Verbindung zum zuletzt gekoppelten Gerät wird automatisch hergestellt."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "fahrzeug-b13r-softwareupdate",
+  "category": "fahrzeug",
+  "title": "Softwareaktualisierung",
+  "subtitle": "Software per Fernzugriff aktualisieren",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance-s",
+    "elfer-performance"
+  ],
+  "tags": [
+    "software",
+    "update",
+    "aktualisierung",
+    "fernzugriff",
+    "RSWDL",
+    "telematik"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Softwareaktualisierung"
+    },
+    {
+      "type": "text",
+      "content": "Ihr Fahrzeug ist möglicherweise mit der notwendigen Ausrüstung ausgestattet, um den Softwaredownload per Fernzugriff zu unterstützen. Voraussetzungen sind Telematik-Gateway 3 (TGW-4GWL) oder höher und Neue Elektrik-Architektur (BPL2)."
+    },
+    {
+      "type": "heading",
+      "content": "Starten der Aktualisierung"
+    },
+    {
+      "type": "steps",
+      "content": [
+        "Parken Sie den Bus auf ebener Fläche",
+        "Schalten Sie den Motor aus",
+        "Stellen Sie den Schalter auf Position 2 (Fahrmodus)",
+        "Gehen Sie in der Informationsanzeige zu 'Wartung'",
+        "Wählen Sie 'Softwareaktualisierung' und befolgen Sie die Anweisungen",
+        "Geben Sie bei Bedarf die PIN ein",
+        "Nach Abschluss erscheint die Meldung 'Software wurde erfolgreich installiert'"
+      ]
+    },
+    {
+      "type": "warning",
+      "content": "Während der Aktualisierung darf der Bus nicht benutzt werden und viele Funktionen sind deaktiviert. Der Schlüssel muss sich während der Aktualisierung im Fahrmodus befinden. Der Bus darf während der Aktualisierung nicht gestartet oder bewegt werden."
+    },
+    {
+      "type": "image",
+      "image": "images/fahrzeug/volvo-b13r/page137_img1.png",
+      "caption": "Startschalter Position 2 für Softwareupdate"
+    }
+  ]
+}
