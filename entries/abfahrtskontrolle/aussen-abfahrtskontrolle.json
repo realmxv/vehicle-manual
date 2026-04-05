@@ -1,0 +1,112 @@
+{
+  "id": "abfahrtskontrolle-aussen-abfahrtskontrolle",
+  "category": "abfahrtskontrolle",
+  "title": "Außen-Abfahrtskontrolle",
+  "subtitle": "Kontrollpunkte rund um das Fahrzeug vor jeder Abfahrt",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "abfahrt",
+    "kontrolle",
+    "außen",
+    "check",
+    "sicherheit",
+    "reifen",
+    "beleuchtung",
+    "rundgang"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Rundgang um das Fahrzeug"
+    },
+    {
+      "type": "text",
+      "content": "Vor jeder Abfahrt sollte ein vollständiger Rundgang um das Fahrzeug durchgeführt werden. Beginnen Sie an der Fahrerseite und gehen Sie im Uhrzeigersinn um das Fahrzeug herum."
+    },
+    {
+      "type": "warning",
+      "content": "Fahren Sie niemals los, ohne die Außen-Abfahrtskontrolle durchgeführt zu haben. Übersehene Hindernisse oder offene Klappen können zu schweren Schäden oder Unfällen führen!"
+    },
+    {
+      "type": "heading",
+      "content": "Reifen und Räder"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Reifendruck aller Reifen visuell prüfen (regelmäßig mit Manometer messen)",
+        "Reifenprofil auf ausreichende Tiefe und gleichmäßige Abnutzung prüfen",
+        "Reifen auf Beschädigungen, Risse oder eingefahrene Fremdkörper prüfen",
+        "Radmuttern auf festen Sitz prüfen (Sichtkontrolle auf Markierungen)"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Beleuchtung und Signaleinrichtungen"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Scheinwerfer (Abblendlicht und Fernlicht) auf Funktion prüfen",
+        "Blinker vorne und hinten auf Funktion prüfen",
+        "Rücklichter und Bremslichter prüfen",
+        "Nebelschlussleuchte und Nebelscheinwerfer prüfen",
+        "Kennzeichenbeleuchtung prüfen",
+        "Seitenmarkierungsleuchten und Umrissleuchten prüfen"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Aufbau und Klappen"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Alle Serviceklappen und Staufachdeckel geschlossen und verriegelt",
+        "Tankdeckel (Kraftstoff, AdBlue, Frischwasser) geschlossen",
+        "Landstromkabel abgesteckt und verstaut",
+        "Abwasserhahn geschlossen",
+        "Gasflaschenkasten verschlossen",
+        "SAT-Anlage eingefahren",
+        "Markise vollständig eingefahren und gesichert",
+        "Eingangstür und Garagentor geschlossen"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Stützen und Untergrund"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Hydraulikstützen vollständig eingefahren",
+        "Auffahrkeile und Unterlegplatten eingesammelt und verstaut",
+        "Untergrund unter dem Fahrzeug auf Flüssigkeitsflecken prüfen (Öl, Kühlmittel, Kraftstoff)"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Spiegel und Sicht"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Außenspiegel korrekt eingestellt und sauber",
+        "Windschutzscheibe und Fenster sauber",
+        "Kameralinsen (Rückfahrkamera, Seitenkameras) sauber",
+        "Freier Bereich hinter und neben dem Fahrzeug — keine Hindernisse"
+      ]
+    },
+    {
+      "type": "info",
+      "content": "Machen Sie sich den Rundgang zur Gewohnheit — er dauert nur wenige Minuten und kann teure Schäden oder gefährliche Situationen verhindern."
+    }
+  ]
+}
