@@ -5,6 +5,16 @@
   "baseImageUrl": "https://raw.githubusercontent.com/realmxv/vehicle-manual/main/images/",
   "categories": [
     {
+      "id": "abfahrtskontrolle",
+      "name": "Abfahrtskontrolle",
+      "icon": "checklist.checked",
+      "description": "Aussen-Abfahrtskontrolle, Innen-Abfahrtskontrolle",
+      "entries": [
+        "aussen-abfahrtskontrolle.json",
+        "innen-abfahrtskontrolle.json"
+      ]
+    },
+    {
       "id": "fahrzeug",
       "name": "Fahrzeug",
       "icon": "car",
@@ -122,16 +132,6 @@
         "somfy-tilt-lift-25-rts.json"
       ]
     },
-    {
-      "id": "abfahrtskontrolle",
-      "name": "Abfahrtskontrolle",
-      "icon": "checklist.checked",
-      "description": "Aussen-Abfahrtskontrolle, Innen-Abfahrtskontrolle",
-      "entries": [
-        "aussen-abfahrtskontrolle.json",
-        "innen-abfahrtskontrolle.json"
-      ]
-    }
   ],
   "models": [
     {
