@@ -1,6 +1,6 @@
 # Fahrzeug-Bedienungsanleitung
 
-Strukturierte Bedienungsanleitung für Reisemobile. Wird von der App als JSON geladen.
+Strukturierte Bedienungsanleitung für Reisemobile — JSON-basiert. Kategorien: Fahrzeug, Wallout, Technik, Hydraulik, Fluessigkeiten, Heizung, Klima, Plateau, Abfahrtskontrolle. Wird von der App als JSON geladen.
 
 ## Struktur
 
@@ -16,7 +16,8 @@ vehicle-manual/
 │   ├── fluessigkeiten/
 │   ├── heizung/
 │   ├── klima/
-│   └── plateau/
+│   ├── plateau/
+│   └── abfahrtskontrolle/
 └── images/             # Bilder (per URL von der App geladen)
 ```
 
