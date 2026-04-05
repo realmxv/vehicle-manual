@@ -1,13 +1,13 @@
 # Fahrzeug-Bedienungsanleitung
 
-Strukturierte Bedienungsanleitung für Reisemobile — JSON-basiert. Kategorien: Fahrzeug, Wallout, Technik, Hydraulik, Fluessigkeiten, Heizung, Klima, Plateau, Abfahrtskontrolle. Wird von der App als JSON geladen.
+Strukturierte Bedienungsanleitung fuer Reisemobile — JSON-basiert. Kategorien: Fahrzeug, Wallout, Technik, Hydraulik, Fluessigkeiten, Heizung, Klima, Plateau, Sonstiges, Abfahrtskontrolle. Wird von der App als JSON geladen.
 
 ## Struktur
 
 ```
 vehicle-manual/
 ├── index.json          # Hauptindex: Kategorien, Modelle, Metadaten
-├── schema.json         # JSON-Schema für Validierung
+├── schema.json         # JSON-Schema fuer Validierung
 ├── entries/            # Alle Anleitungs-Eintraege
 │   ├── fahrzeug/
 │   ├── wallout/
@@ -17,13 +17,14 @@ vehicle-manual/
 │   ├── heizung/
 │   ├── klima/
 │   ├── plateau/
+│   ├── sonstiges/
 │   └── abfahrtskontrolle/
 └── images/             # Bilder (per URL von der App geladen)
 ```
 
 ## Versionierung
 
-Jeder Eintrag hat `validFrom` (YYYY-MM), `validUntil` (YYYY-MM oder null), und `models` (Array). Die App zeigt nur passende Eintraege an.
+Jeder Eintrag hat validFrom (YYYY-MM), validUntil (YYYY-MM oder null), und models (Array). Die App zeigt nur passende Eintraege an.
 
 ## Section-Typen
 
