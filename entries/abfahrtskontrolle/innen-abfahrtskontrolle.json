@@ -1,0 +1,111 @@
+{
+  "id": "abfahrtskontrolle-innen-abfahrtskontrolle",
+  "category": "abfahrtskontrolle",
+  "title": "Innen-Abfahrtskontrolle",
+  "subtitle": "Kontrollpunkte im Fahrzeuginnenraum vor jeder Abfahrt",
+  "validFrom": "2026-01",
+  "validUntil": null,
+  "models": [
+    "performance",
+    "performance-s",
+    "perfection",
+    "elfer-performance"
+  ],
+  "tags": [
+    "abfahrt",
+    "kontrolle",
+    "innen",
+    "check",
+    "sicherheit",
+    "wohnraum",
+    "fahrerhaus",
+    "sichern"
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Wohnraum sichern"
+    },
+    {
+      "type": "text",
+      "content": "Vor der Abfahrt müssen alle losen Gegenstände im Wohnraum gesichert und alle Möbelteile in Fahrposition gebracht werden. Herumfliegende Gegenstände sind bei einer Bremsung eine erhebliche Verletzungsgefahr."
+    },
+    {
+      "type": "warning",
+      "content": "Sichern Sie alle losen Gegenstände! Bei einer Vollbremsung werden ungesicherte Gegenstände zu gefährlichen Geschossen."
+    },
+    {
+      "type": "heading",
+      "content": "Küche und Haushalt"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Kühlschrank geschlossen und auf 12-V-Betrieb oder aus umgestellt",
+        "Herd und Backofen ausgeschaltet",
+        "Gasversorgung am Haupthahn abgestellt",
+        "Geschirr, Töpfe und Flaschen in Schränken gesichert",
+        "Schubladen und Schranktüren geschlossen und eingerastet",
+        "Kaffeemaschine und Kleingeräte gesichert"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Bad und Sanitär"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Toilettenkassette bzw. Toilettenschieber geschlossen",
+        "Duschkopf gesichert und Duschtür verriegelt",
+        "Toilettenartikel und Flaschen in Fächern gesichert"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Wohn- und Schlafbereich"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Wallout vollständig eingefahren (Kontrollleuchte prüfen)",
+        "Hubbett / Plateau in sicherer Position",
+        "Tisch in Fahrposition oder gesichert",
+        "Dachluken und Fenster geschlossen und verriegelt",
+        "Verdunkelungsrollos in sicherer Position"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Elektrik und Technik"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Landstrom getrennt (230-V-Einspeisung aus)",
+        "Wechselrichter bei Bedarf einschalten",
+        "Batterieladezustand prüfen (Aufbaubatterien)",
+        "Heizung auf Fahrmodus umgestellt oder ausgeschaltet"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Fahrerhaus"
+    },
+    {
+      "type": "checklist",
+      "content": [
+        "Fahrersitz und Spiegel korrekt eingestellt",
+        "Sicherheitsgurt angelegt",
+        "Navigationsgerät / Infotainment eingeschaltet und Route gesetzt",
+        "Kombiinstrument — keine Warnleuchten aktiv",
+        "Feststellbremse gelöst (erst nach Gangeinlegen)",
+        "Gangwahlhebel auf D (Drive) oder passenden Gang"
+      ]
+    },
+    {
+      "type": "info",
+      "content": "Entwickeln Sie eine feste Routine: Beginnen Sie immer hinten im Wohnraum und arbeiten Sie sich nach vorne zum Fahrerhaus vor. So vergessen Sie nichts."
+    }
+  ]
+}
