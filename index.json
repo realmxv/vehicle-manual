@@ -1,5 +1,153 @@
 {
   "name": "Fahrzeug-Bedienungsanleitung",
+  "version": "1.4.0",
+  "lastUpdated": "2026-04-05",
+  "baseImageUrl": "https://raw.githubusercontent.com/realmxv/vehicle-manual/main/images/",
+  "categories": [
+    {
+      "id": "fahrzeug",
+      "name": "Fahrzeug",
+      "icon": "car",
+      "description": "Motor, Startvorgang, Fahrbetrieb, Bremsen, Beleuchtung",
+      "entries": [
+        "startvorgang.json",
+        "beleuchtung.json",
+        "einfuehrung.json",
+        "starten-fahren.json",
+        "kollisionswarnung.json",
+        "fahrassistenz.json",
+        "fahrerumgebung.json",
+        "grundbedienung.json",
+        "tempomat.json",
+        "retarder.json",
+        "instrumente.json",
+        "gangwahlhebel.json",
+        "tuerbremse-absenkung.json",
+        "infotainment.json",
+        "sicherheit-notfall.json",
+        "taegliche-inspektion.json",
+        "tanken.json",
+        "reinigung.json",
+        "raeder-reifen.json",
+        "elektrik.json",
+        "langzeitparken.json",
+        "softwareupdate.json",
+        "kraftstoff.json",
+        "adblue.json",
+        "abgasnachbehandlung.json",
+        "technische-daten.json",
+        "bremssysteme.json",
+        "getriebe.json",
+        "batterien.json"
+      ]
+    },
+    {
+      "id": "wallout",
+      "name": "Wallout / Slideout",
+      "icon": "arrows.left.and.right",
+      "description": "Ausfahren, Einfahren, Pflege, Enteisen, Sicherheitshinweise",
+      "entries": [
+        "wallout-ausfahren.json",
+        "wallout-pflege.json",
+        "wallout-enteisen.json",
+        "wallout-sicherheitshinweise.json"
+      ]
+    },
+    {
+      "id": "technik",
+      "name": "Technik",
+      "icon": "wrench",
+      "description": "Elektrik, Batterien, Sicherungen, Solaranlage, Wechselrichter",
+      "entries": [
+        "batterien.json",
+        "sicherungen.json"
+      ]
+    },
+    {
+      "id": "hydraulik",
+      "name": "Hydraulik",
+      "icon": "gauge",
+      "description": "Stuetzensystem, Niveauregulierung, Hydraulikoel",
+      "entries": [
+        "stuetzen.json"
+      ]
+    },
+    {
+      "id": "fluessigkeiten",
+      "name": "Fluessigkeiten",
+      "icon": "drop",
+      "description": "Frischwasser, Abwasser, Motoroel, Bremsfluessigkeit, AdBlue",
+      "entries": [
+        "frischwasser.json",
+        "wasserfilter-neu.json"
+      ]
+    },
+    {
+      "id": "heizung",
+      "name": "Heizung",
+      "icon": "flame",
+      "description": "Frischwasser-Heizung, Scheer-Heizung, Webasto 9 kW, Elektroheizung, Warmwasser",
+      "entries": [
+        "frischwasser-heizung.json",
+        "scheer-heizung.json",
+        "webasto-9kw.json",
+        "elektroheizung.json",
+        "warmwasser.json"
+      ]
+    },
+    {
+      "id": "klima",
+      "name": "Klima",
+      "icon": "snowflake",
+      "description": "Klimaanlage, Lueftung, Dachklimaanlage",
+      "entries": [
+        "klimaanlage.json"
+      ]
+    },
+    {
+      "id": "plateau",
+      "name": "Plateau / Hubbett",
+      "icon": "bed.double",
+      "description": "Hubbett, Plateau absenken/anheben",
+      "entries": [
+        "hubbett.json"
+      ]
+    },
+    {
+      "id": "abfahrtskontrolle",
+      "name": "Abfahrtskontrolle",
+      "icon": "checklist.checked",
+      "description": "Aussen-Abfahrtskontrolle, Innen-Abfahrtskontrolle",
+      "entries": [
+        "aussen-abfahrtskontrolle.json",
+        "innen-abfahrtskontrolle.json"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "performance",
+      "name": "Performance",
+      "productionStart": "2023-01"
+    },
+    {
+      "id": "performance-s",
+      "name": "Performance S",
+      "productionStart": "2023-01"
+    },
+    {
+      "id": "perfection",
+      "name": "Perfection",
+      "productionStart": "2023-01"
+    },
+    {
+      "id": "elfer-performance",
+      "name": "Elfer Performance",
+      "productionStart": "2023-01"
+    }
+  ]
+}{
+  "name": "Fahrzeug-Bedienungsanleitung",
   "version": "1.3.0",
   "lastUpdated": "2026-04-04",
   "baseImageUrl": "https://raw.githubusercontent.com/realmxv/vehicle-manual/main/images/",
