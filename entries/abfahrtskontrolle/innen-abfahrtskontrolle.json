@@ -41,9 +41,8 @@
     {
       "type": "checklist",
       "content": [
-        "Kühlschrank geschlossen und auf 12-V-Betrieb oder aus umgestellt",
-        "Herd und Backofen ausgeschaltet",
-        "Gasversorgung am Haupthahn abgestellt",
+        "Kühlschrank geschlossen",
+        "Fahrzeug auf Abwesend setzen",
         "Geschirr, Töpfe und Flaschen in Schränken gesichert",
         "Schubladen und Schranktüren geschlossen und eingerastet",
         "Kaffeemaschine und Kleingeräte gesichert"
@@ -56,7 +55,7 @@
     {
       "type": "checklist",
       "content": [
-        "Toilettenkassette bzw. Toilettenschieber geschlossen",
+        "Toilette Wasser einlassen",
         "Duschkopf gesichert und Duschtür verriegelt",
         "Toilettenartikel und Flaschen in Fächern gesichert"
       ]
@@ -68,9 +67,9 @@
     {
       "type": "checklist",
       "content": [
-        "Wallout vollständig eingefahren (Kontrollleuchte prüfen)",
-        "Hubbett / Plateau in sicherer Position",
-        "Tisch in Fahrposition oder gesichert",
+        "Wallout vollständig eingefahren",
+        "Plateau verriegelt",
+        "Tisch in Fahrposition",
         "Dachluken und Fenster geschlossen und verriegelt",
         "Verdunkelungsrollos in sicherer Position"
       ]
@@ -83,9 +82,6 @@
       "type": "checklist",
       "content": [
         "Landstrom getrennt (230-V-Einspeisung aus)",
-        "Wechselrichter bei Bedarf einschalten",
-        "Batterieladezustand prüfen (Aufbaubatterien)",
-        "Heizung auf Fahrmodus umgestellt oder ausgeschaltet"
       ]
     },
     {
@@ -98,9 +94,9 @@
         "Fahrersitz und Spiegel korrekt eingestellt",
         "Sicherheitsgurt angelegt",
         "Navigationsgerät / Infotainment eingeschaltet und Route gesetzt",
-        "Kombiinstrument — keine Warnleuchten aktiv",
-        "Feststellbremse gelöst (erst nach Gangeinlegen)",
-        "Gangwahlhebel auf D (Drive) oder passenden Gang"
+        "Fahrzeug Tacho — keine Warnleuchten aktiv",
+        "Feststellbremse gelöst",
+        "Gangwahlhebel auf D (Drive) oder passenden Gang(Vor dem starten auf N (Neutral))"
       ]
     },
     {
