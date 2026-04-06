@@ -44,7 +44,7 @@
         "Reifendruck aller Reifen visuell prüfen (regelmäßig mit Manometer messen)",
         "Reifenprofil auf ausreichende Tiefe und gleichmäßige Abnutzung prüfen",
         "Reifen auf Beschädigungen, Risse oder eingefahrene Fremdkörper prüfen",
-        "Radmuttern auf festen Sitz prüfen (Sichtkontrolle auf Markierungen)"
+        "Radmuttern auf festen Sitz prüfen (Sichtkontrolle)"
       ]
     },
     {
@@ -71,12 +71,11 @@
       "content": [
         "Alle Serviceklappen und Staufachdeckel geschlossen und verriegelt",
         "Tankdeckel (Kraftstoff, AdBlue, Frischwasser) geschlossen",
-        "Landstromkabel abgesteckt und verstaut",
+        "Landstromkabel abgesteckt",
         "Abwasserhahn geschlossen",
-        "Gasflaschenkasten verschlossen",
         "SAT-Anlage eingefahren",
         "Markise vollständig eingefahren und gesichert",
-        "Eingangstür und Garagentor geschlossen"
+        "Garagentür und Einganstür geschlossen"
       ]
     },
     {
