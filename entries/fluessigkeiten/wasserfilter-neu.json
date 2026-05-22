@@ -22,7 +22,7 @@
     },
     {
       "type": "text",
-      "content": "Ab Baujahr August 2026 ist Ihr Fahrzeug mit einem neuen, verbesserten Wasserfiltersystem ausgestattet. Dieser Filter bietet eine feinere Filtration und eine längere Lebensdauer."
+      "content": "Wenn Ihr Fahrzeug mit einem Wasserfiltersystem ausgestattet ist müssen Sie Ihn regelmäßig kontrollieren und ersetzen."
     },
     {
       "type": "heading",
@@ -31,10 +31,11 @@
     {
       "type": "steps",
       "content": [
-        "Öffnen Sie die Serviceklappe zum Wasserfiltergehäuse",
+        "Schalten Sie die Wasserpumpe aus",
+        "Öffnen Sie die Seitenklappe zum Wasserfiltergehäuse",
         "Drehen Sie das Filtergehäuse gegen den Uhrzeigersinn auf",
         "Entnehmen Sie den alten Filter",
-        "Setzen Sie den neuen Filter ein und achten Sie auf die Pfeilrichtung",
+        "Setzen Sie den neuen Filter ein",
         "Drehen Sie das Gehäuse im Uhrzeigersinn fest",
         "Lassen Sie ca. 5 Liter Wasser durchlaufen, bevor Sie es verwenden"
       ]
