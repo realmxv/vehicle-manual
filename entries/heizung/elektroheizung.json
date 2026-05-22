@@ -26,16 +26,17 @@
     },
     {
       "type": "text",
-      "content": "Die Elektroheizung ist eine elektrische Zusatzheizung, die mit 230V Landstrom betrieben wird. Sie eignet sich besonders als Ergänzung zur Diesel-Heizung oder als alleinige Heizung bei Landstromanschluss."
+      "content": "Die Elektroheizung ist eine elektrische Zusatzheizung, die mit 230V Landstrom betrieben wird. Sie eignet sich besonders als Heizung im Abstellbetrieb."
     },
     {
       "type": "steps",
       "content": [
         "Stellen Sie sicher, dass Ihr Fahrzeug an Landstrom (230V) angeschlossen ist",
+        "Stellen Sie sicher, dass die Aufbaubatterien voll geladen sind",
         "Öffnen Sie das Heizungsmenü auf dem Bedienfeld oder in der App",
         "Wählen Sie \"Elektroheizung\"",
-        "Stellen Sie die gewünschte Temperatur oder Leistungsstufe ein",
-        "Aktivieren Sie die Heizung"
+        "Stellen Sie die gewünschten Temperaturen und Leistungsstufe ein",
+        "Heizung ist aktiv"
       ]
     },
     {
